@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "titre": "Veille Monde",
+  "sousTitre": "Registre personnel des opérations suspectes, ingérences et anomalies, par pays suivi",
+  "avertissement": "Registre de sources ouvertes. Une allégation n'est pas un fait établi, et la présence d'un événement ici ne prouve aucune opération clandestine. Le niveau de suspicion est un jugement d'analyse, pas une conclusion.",
+  "paysSuivis": [
+    {
+      "id": "canada",
+      "nom": "Canada",
+      "article": "au Canada",
+      "regions": [
+        { "code": "BC", "nom": "Colombie-Britannique" },
+        { "code": "AB", "nom": "Alberta" },
+        { "code": "SK", "nom": "Saskatchewan" },
+        { "code": "MB", "nom": "Manitoba" },
+        { "code": "ON", "nom": "Ontario" },
+        { "code": "QC", "nom": "Québec" },
+        { "code": "NB", "nom": "Nouveau-Brunswick" },
+        { "code": "NS", "nom": "Nouvelle-Écosse" },
+        { "code": "PE", "nom": "Île-du-Prince-Édouard" },
+        { "code": "NL", "nom": "Terre-Neuve-et-Labrador" },
+        { "code": "YT", "nom": "Yukon" },
+        { "code": "NT", "nom": "Territoires du Nord-Ouest" },
+        { "code": "NU", "nom": "Nunavut" }
+      ],
+      "centre": [56, -96],
+      "zoom": 3
+    },
+    {
+      "id": "france",
+      "nom": "France",
+      "article": "en France",
+      "regions": [
+        { "code": "ARA", "nom": "Auvergne-Rhône-Alpes" },
+        { "code": "BFC", "nom": "Bourgogne-Franche-Comté" },
+        { "code": "BRE", "nom": "Bretagne" },
+        { "code": "CVL", "nom": "Centre-Val de Loire" },
+        { "code": "COR", "nom": "Corse" },
+        { "code": "GES", "nom": "Grand Est" },
+        { "code": "HDF", "nom": "Hauts-de-France" },
+        { "code": "IDF", "nom": "Île-de-France" },
+        { "code": "NOR", "nom": "Normandie" },
+        { "code": "NAQ", "nom": "Nouvelle-Aquitaine" },
+        { "code": "OCC", "nom": "Occitanie" },
+        { "code": "PDL", "nom": "Pays de la Loire" },
+        { "code": "PAC", "nom": "Provence-Alpes-Côte d'Azur" },
+        { "code": "GUA", "nom": "Guadeloupe" },
+        { "code": "MTQ", "nom": "Martinique" },
+        { "code": "GUF", "nom": "Guyane" },
+        { "code": "REU", "nom": "La Réunion" },
+        { "code": "MAY", "nom": "Mayotte" },
+        { "code": "NCL", "nom": "Nouvelle-Calédonie" },
+        { "code": "PYF", "nom": "Polynésie française" },
+        { "code": "SPM", "nom": "Saint-Pierre-et-Miquelon" },
+        { "code": "WLF", "nom": "Wallis-et-Futuna" }
+      ],
+      "centre": [46.6, 2.4],
+      "zoom": 5
+    }
+  ],
+  "categories": [
+    { "id": "ingerence-politique", "nom": "Ingérence politique", "description": "Pressions ou manœuvres visant des élus, des candidats, des partis, des scrutins ou des décisions publiques." },
+    { "id": "espionnage", "nom": "Espionnage", "description": "Collecte clandestine de renseignements, vol de technologie, menace interne, recrutement de sources." },
+    { "id": "repression-transnationale", "nom": "Répression transnationale", "description": "Menaces, surveillance ou intimidation de diasporas, de dissidents ou de militants pour le compte d'un État." },
+    { "id": "violence-ciblee", "nom": "Violence ciblée", "description": "Assassinats, complots, fusillades ou incendies possiblement commandités ou exploités par un acteur étranger." },
+    { "id": "cyber", "nom": "Cyber", "description": "Intrusions, attaques perturbatrices, logiciels espions et vols de données à dimension étatique ou stratégique." },
+    { "id": "desinformation", "nom": "Désinformation et influence", "description": "Opérations d'influence, manipulation de l'information, hypertrucages, réseaux inauthentiques." },
+    { "id": "sabotage-infrastructure", "nom": "Sabotage et infrastructures", "description": "Incidents touchant des infrastructures essentielles : câbles, énergie, transport, télécommunications, sites sensibles." },
+    { "id": "militaire-arctique", "nom": "Militaire et Arctique", "description": "Activités militaires, aériennes ou navales étrangères près du territoire, en Arctique ou contre les forces armées du pays suivi." },
+    { "id": "coercition-economique", "nom": "Coercition économique", "description": "Pressions commerciales, contournement de sanctions, acquisitions stratégiques, transferts de technologie." },
+    { "id": "crime-organise", "nom": "Crime organisé lié à un État", "description": "Réseaux criminels agissant comme intermédiaires ou bénéficiant de la protection d'un État." },
+    { "id": "canadiens-etranger", "nom": "Ressortissants à l'étranger", "description": "Détentions, accusations, morts suspectes ou opérations visant des ressortissants ou des intérêts du pays suivi hors de son territoire." },
+    { "id": "inexplique", "nom": "Inexpliqué", "description": "Événements sans explication satisfaisante ou dont la version officielle a changé." },
+    { "id": "reponse-officielle", "nom": "Réponse officielle et contexte", "description": "Rapports, lois, expulsions, sanctions et autres mesures qui éclairent le reste du registre." }
+  ],
+  "statuts": [
+    { "id": "confirme", "nom": "Confirmé", "description": "Attribution officielle, condamnation, rapport officiel ou fait reconnu publiquement." },
+    { "id": "accusations", "nom": "Accusations déposées", "description": "Accusations criminelles devant les tribunaux; rien n'est prouvé tant qu'il n'y a pas de verdict." },
+    { "id": "allegue-officiel", "nom": "Allégué par les autorités", "description": "Affirmé par un organisme officiel, sans accusations ni preuve publique complète." },
+    { "id": "rapporte", "nom": "Rapporté par les médias", "description": "Rapporté par un média reconnu, parfois sur la foi de sources anonymes, sans confirmation officielle." },
+    { "id": "non-verifie", "nom": "Non vérifié", "description": "Source unique ou fragile; à traiter comme une piste." },
+    { "id": "dementi", "nom": "Démenti ou écarté", "description": "Démenti crédible, lien étranger écarté par les autorités, ou acquittement." }
+  ],
+  "territoires": [
+    { "id": "interieur", "nom": "Sur le territoire" },
+    { "id": "etranger", "nom": "À l'étranger" },
+    { "id": "cyber", "nom": "Cyberespace" },
+    { "id": "mixte", "nom": "Mixte" }
+  ],
+  "fiabilites": [
+    { "id": "elevee", "nom": "Élevée", "description": "Documents officiels ou judiciaires, ou plusieurs grands médias concordants." },
+    { "id": "moyenne", "nom": "Moyenne", "description": "Un seul média reconnu, ou sources anonymes." },
+    { "id": "faible", "nom": "Faible", "description": "Non confirmé ou source fragile." }
+  ],
+  "suivis": [
+    { "id": "a-surveiller", "nom": "À surveiller" },
+    { "id": "en-cours", "nom": "En cours" },
+    { "id": "clos", "nom": "Clos" }
+  ],
+  "echelleSuspicion": [
+    { "niveau": 1, "nom": "Contexte", "description": "Contexte, activité de routine ou réponse officielle; aucun indice d'opération." },
+    { "niveau": 2, "nom": "Inhabituel", "description": "Incident inhabituel; le lien avec un acteur étranger reste spéculatif." },
+    { "niveau": 3, "nom": "Indices crédibles", "description": "Indices crédibles d'implication étrangère ou clandestine, sans confirmation." },
+    { "niveau": 4, "nom": "Allégation officielle", "description": "Implication étrangère alléguée par les autorités, ou accusations criminelles déposées." },
+    { "niveau": 5, "nom": "Confirmé", "description": "Opération étrangère ou clandestine confirmée : attribution officielle, condamnation ou aveu." }
+  ],
+  "etatsPiste": [
+    { "id": "a-verifier", "nom": "À vérifier" },
+    { "id": "verifiee", "nom": "Vérifiée" },
+    { "id": "ecartee", "nom": "Écartée" }
+  ]
+}

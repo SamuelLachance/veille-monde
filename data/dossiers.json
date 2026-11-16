@@ -1,0 +1,2058 @@
+{
+  "schema": 1,
+  "dossiers": [
+    {
+      "id": "western-university-explosifs",
+      "titre": "Accusations d'armes et d'explosifs à l'Université Western",
+      "resume": "Selon la police de London, une intrusion sur le campus de l'Université Western dans la nuit du 24 janvier 2026 a mené à la découverte d'une arme de poing chargée, puis de produits chimiques pouvant servir à fabriquer des explosifs dans une résidence. Quatre étudiants de 21 à 27 ans font face à des dizaines d'accusations; l'EISN de la GRC s'est jointe au dossier selon The Bureau, et aucun mobile n'a été rendu public.",
+      "questions": [
+        "Quel était le mobile des accusés, et pourquoi l'EISN s'est-elle jointe à l'enquête?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "terres-ile-du-prince-edouard",
+      "titre": "Acquisitions foncières à l'Île-du-Prince-Édouard",
+      "resume": "Un ancien solliciteur général a réclamé une enquête fédérale sur les acquisitions foncières de groupes bouddhistes à l'Île-du-Prince-Édouard; l'allégation n'est pas vérifiée.",
+      "questions": [
+        "Une autorité fédérale examinera-t-elle ces acquisitions?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.513Z",
+      "veille": "canada"
+    },
+    {
+      "id": "actions-anti-tech-montreal-2026",
+      "titre": "Actions contre l'IA à Montréal",
+      "resume": "L'institut d'IA Mila a été vandalisé par une dizaine de personnes à la veille du sommet ALL IN, en septembre.",
+      "questions": [
+        "Les auteurs ont-ils été identifiés?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.519Z",
+      "veille": "canada"
+    },
+    {
+      "id": "affaire-aljabri",
+      "titre": "Affaire Aljabri",
+      "resume": "Saad Aljabri, ancien responsable du renseignement saoudien établi au Canada et visé par une poursuite saoudienne de plusieurs milliards, conteste devant la Cour d'appel fédérale le secret de sécurité nationale invoqué par Ottawa en vertu de l'article 38 de la Loi sur la preuve au Canada.",
+      "questions": [
+        "Que décidera la Cour d'appel fédérale sur le secret invoqué?",
+        "Quels renseignements Ottawa cherche-t-il à protéger?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T22:23:29.404Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-amir-dz",
+      "titre": "Affaire Amir DZ : détention de l'agent consulaire",
+      "resume": "Selon Hespress, la détention provisoire de l'agent consulaire algérien mis en examen dans l'enlèvement de l'opposant Amir Boukhors (Amir DZ), détenu depuis avril 2025 et poursuivi pour enlèvement et séquestration en relation avec une entreprise terroriste, a été prolongée d'un an le 25 mars 2026 ; Alger a convoqué le lendemain le chargé d'affaires français. En juillet, la chambre de l'instruction a maintenu sa détention, alors que le PNAT avait requis une remise en liberté sous contrôle judiciaire. L'intéressé reste présumé innocent.",
+      "questions": [
+        "Pourquoi le PNAT a-t-il requis la libération d'un suspect qu'il poursuit pour des faits terroristes ?",
+        "Ces réquisitions sont-elles liées au rapprochement diplomatique avec Alger ?",
+        "Pourquoi Alger traite-t-il le sort de l'agent comme celui d'un diplomate, alors qu'il ne détient qu'un passeport de service ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.413Z"
+    },
+    {
+      "id": "affaire-ortis",
+      "titre": "Affaire Cameron Ortis",
+      "resume": "Condamné en 2023 en vertu de la Loi sur la protection de l'information, l'ancien directeur du renseignement de la GRC est en semi-liberté depuis février 2026; son appel et celui de la Couronne restent pendants.",
+      "questions": [
+        "Quand les appels seront-ils entendus?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.521Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-delair",
+      "titre": "Affaire Delair à Labège",
+      "resume": "Selon l'AFP, l'usine du fabricant de drones Delair à Labège, fournisseur de l'Ukraine, a été visée vers le 1er juin 2026 par des cocktails Molotov qui n'ont pas pris feu ; selon Euromaidan Press, le parquet de Toulouse a ouvert une enquête. Le 3 juin, selon l'AFP et Le Parisien, un homme de 48 ans né en Biélorusse et vivant en Espagne a été interpellé alors qu'il filmait un prototype de drone militaire sur le site, puis mis en examen pour livraison d'informations à la Russie et placé en détention provisoire. Aucun lien n'est établi entre les deux faits.",
+      "questions": [
+        "Existe-t-il un lien entre l'attaque incendiaire et le repérage du 3 juin ?",
+        "Les personnes filmées par les caméras lors de l'attaque ont-elles été identifiées ?",
+        "Combien de jours séparent réellement l'attaque de l'arrestation, les sources divergeant ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.434Z"
+    },
+    {
+      "id": "affaire-dennis-lu",
+      "titre": "Affaire Dennis Lu",
+      "resume": "Dennis Lu, ex-chercheur de Ressources naturelles Canada, fait face à deux chefs d'utilisation non autorisée d'un ordinateur et à un chef d'abus de confiance, selon The Bureau; les allégations ne sont pas prouvées. Le 25 mai 2026, la Cour supérieure de l'Ontario a ordonné au SCRS et au Bureau du Conseil privé de communiquer des documents sensibles à la défense.",
+      "questions": [
+        "Que révéleront les documents du SCRS et du Bureau du Conseil privé communiqués à la défense?",
+        "Pourquoi l'accès informatique du chercheur a-t-il été maintenu malgré les alertes que le SCRS aurait adressées au ministère?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "affaire-celil",
+      "titre": "Affaire Huseyin Celil",
+      "resume": "Vingt ans après son arrestation, le Canadien d'origine ouïghoure Huseyin Celil demeure emprisonné au Xinjiang, selon ses soutiens.",
+      "questions": [
+        "Ottawa a-t-il soulevé son cas pendant le rapprochement avec Pékin?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.527Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-lavrilleux-secret-defense",
+      "titre": "Affaire Lavrilleux et secret de la défense nationale",
+      "resume": "Selon RSF, la cour d'appel de Paris a ordonné le 8 juillet 2026, à la demande du parquet général, la réouverture de l'instruction sur la fuite de documents classifiés relatifs à une opération militaire française en Égypte. La décision ouvre la voie à une possible mise en examen de la journaliste Ariane Lavrilleux, qui avait bénéficié d'un non-lieu en octobre 2025.",
+      "questions": [
+        "Quels éléments justifient la réouverture après un non-lieu motivé par l'intérêt général des articles ?",
+        "La journaliste sera-t-elle mise en examen ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.453Z"
+    },
+    {
+      "id": "affaire-majcher",
+      "titre": "Affaire Majcher",
+      "resume": "William Majcher, ex-agent de la GRC, était accusé d'actes préparatoires au titre de la Loi sur la protection de l'information : la Couronne lui reprochait d'avoir préparé une opération de coercition visant un fugitif recherché par Pékin. À son procès, ouvert le 20 avril 2026 à Vancouver, la preuve a décrit la traque « Fox Hunt », qui aurait ciblé au moins 25 résidents canadiens. Il a été acquitté le 13 mai, la juge concluant que la Couronne n'avait pas fait sa preuve hors de tout doute raisonnable. La Couronne a porté l'acquittement en appel en juin et réclame un nouveau procès.",
+      "questions": [
+        "La Cour d'appel de la Colombie-Britannique ordonnera-t-elle un nouveau procès?",
+        "Qu'ont fait les trois policiers chinois qui ont échappé à toute surveillance pendant six heures à Vancouver en 2018?",
+        "Pourquoi la Couronne a-t-elle renoncé à faire entendre son témoin clé?",
+        "Quelles suites ont été données aux pressions décrites sur au moins 25 résidents canadiens?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "affaire-masjoody",
+      "titre": "Affaire Masjoody",
+      "resume": "Masood Masjoody, mathématicien de Burnaby connu pour ses critiques du régime iranien, a été porté disparu début février 2026; ses restes ont été retrouvés à Mission le 6 mars. Des voix de la diaspora ont évoqué une possible répression transnationale, hypothèse que la police n'a jamais reprise à son compte. Le 13 mars, deux personnes issues elles-mêmes du milieu militant anti-régime ont été accusées de meurtre au premier degré; la police dit que le mobile reste à établir et aucune source ne fait état d'une commande étatique.",
+      "questions": [
+        "Quel est le mobile du meurtre, que la police dit devoir encore établir?",
+        "La police a-t-elle examiné la piste d'une intervention étrangère, sur laquelle elle ne s'est jamais prononcée?",
+        "Que révèle la déclaration sous serment déposée en cour cinq jours avant la disparition, qui évoquait un projet de le « faire taire »?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "affaire-ndatuje",
+      "titre": "Affaire Ndatuje (Rwanda)",
+      "resume": "Un gendarme albertain accusé d'avoir utilisé une base de données policière au profit du Rwanda a été acquitté le 2 octobre.",
+      "questions": [
+        "La Couronne portera-t-elle l'acquittement en appel?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.522Z",
+      "veille": "canada"
+    },
+    {
+      "id": "affaire-nijjar",
+      "titre": "Affaire Nijjar",
+      "resume": "Hardeep Singh Nijjar a été tué à Surrey en juin 2023; quatre ressortissants indiens en sont accusés au Canada, et Ottawa veut soustraire des renseignements à la divulgation. En mars 2026, le Globe and Mail a rapporté, selon des sources anonymes, que du personnel consulaire indien aurait aidé à préparer le meurtre, ce que l'Inde rejette. En juillet, la justice américaine a inculpé Lawrence Bishnoi et Goldy Brar, que le FBI recherche, d'avoir ordonné l'assassinat, sans alléguer de rôle de l'État indien, et la GRC a dit n'avoir aucun élément liant le gouvernement indien dans cette enquête.",
+      "questions": [
+        "Un commanditaire étatique est-il en cause, alors que les sources du Globe and Mail et l'acte d'accusation américain divergent sur ce point?",
+        "Comment la GRC concilie-t-elle sa déclaration de juillet, limitée à l'enquête Hard Ball, avec ses propos d'octobre 2024 mettant en cause des agents indiens?",
+        "Quand le procès des quatre accusés s'ouvrira-t-il, et quels renseignements en seront écartés?",
+        "Qui a fourni aux commanditaires présumés la photo et les adresses de M. Nijjar, ce que l'acte d'accusation américain ne dit pas?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-pilotes-formation-chine",
+      "titre": "Affaire Pierre-Henri Chuet, ex-pilote de l'aéronavale",
+      "resume": "Selon Intelligence Online, repris par AeroTime et Presse-citron, l'ancien pilote de l'aéronavale Pierre-Henri Chuet a été mis en examen pour quatre infractions, dont intelligence avec une puissance étrangère et divulgation de secrets de la défense nationale, et placé sous contrôle judiciaire. Soupçonné d'activités au profit de la Chine, il conteste l'ensemble des faits et reste présumé innocent.",
+      "questions": [
+        "Pourquoi la justice n'a-t-elle été saisie qu'en 2025, malgré des alertes médiatiques antérieures ?",
+        "Quel rôle exact la société TFASA joue-t-elle dans le dossier, les sources divergeant ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.461Z"
+    },
+    {
+      "id": "affaire-robar",
+      "titre": "Affaire Robar",
+      "resume": "L'adjudant-maître Matthew Robar, du contre-renseignement militaire, arrêté en décembre 2025 pour avoir prétendument transmis des renseignements protégés à une entité étrangère, ne fait plus face qu'à trois chefs en vertu de la Loi sur la défense nationale, selon l'expert Wesley Wark. Sa cour martiale doit s'ouvrir le 9 décembre à Ottawa; aucune explication officielle n'a été donnée pour l'abandon des chefs d'espionnage, et des médias identifient l'entité comme l'Ukraine.",
+      "questions": [
+        "Pourquoi les chefs d'espionnage ont-ils été remplacés par des accusations disciplinaires?",
+        "L'entité étrangère en cause sera-t-elle confirmée officiellement à la cour martiale?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "affaire-schellenberg",
+      "titre": "Affaire Schellenberg",
+      "resume": "Le 6 février 2026, la Cour populaire suprême de Chine a annulé la condamnation à mort prononcée en 2019 contre le Britanno-Colombien Robert Lloyd Schellenberg pour trafic de drogue, selon La Presse Canadienne. La décision est intervenue quelques semaines après la visite de Mark Carney à Pékin.",
+      "questions": [
+        "Quel a été le résultat du nouveau procès de M. Schellenberg, introuvable dans les sources consultées?",
+        "Sur quels motifs juridiques l'annulation repose-t-elle?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "affaire-scoretz",
+      "titre": "Affaire Scoretz",
+      "resume": "Michael Scoretz, policier de 2009 à 2025 et ancien enquêteur de l'EISN du Pacifique, a été arrêté le 4 juin 2026; il fait face à six chefs de communication non autorisée de renseignements opérationnels spéciaux et à sept chefs d'abus de confiance. Selon la GRC, il aurait partagé des informations protégées ou classifiées avec des personnes avec qui il entretenait une relation, entre août 2020 et février 2023; aucun lien avec un État étranger n'est mentionné.",
+      "questions": [
+        "À qui les renseignements auraient-ils été communiqués, et dans quel but?",
+        "Qu'est-ce qui a déclenché l'enquête, plus de trois ans après la fin des faits allégués?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "affaire-wang-hydro-quebec",
+      "titre": "Affaire Wang (Hydro-Québec)",
+      "resume": "Yuesheng Wang, ancien chercheur d'Hydro-Québec, est le premier accusé d'espionnage économique en vertu de la Loi sur la protection de l'information, au profit allégué de la Chine; il a plaidé non coupable. Le verdict attendu le 5 juin 2026 a été reporté, et l'affaire devait revenir devant la Cour du Québec le 8 septembre pour fixer une nouvelle date.",
+      "questions": [
+        "Quand le verdict sera-t-il rendu, aucune nouvelle date n'ayant été repérée?",
+        "Pourquoi le juge n'a-t-il pas été en mesure de rendre sa décision le 5 juin?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-affaire-fedorova",
+      "titre": "Affaire Xenia Fedorova et représailles russes",
+      "resume": "Selon La Libre (AFP), la Russe Xenia Fedorova, ancienne dirigeante de RT France, s'est vu notifier fin juillet 2026 un arrêté d'expulsion, et ses avoirs ont été gelés pour six mois en application de la loi de 2024 sur les ingérences étrangères ; Paris l'accuse de participer à des opérations d'influence favorables au Kremlin. Le 11 novembre, selon Sud Radio, Moscou a déclaré persona non grata les députés Sacha Houlié et Arthur Delaporte et les journalistes Ariane Chemin et Paul Gogo, en invoquant leur participation présumée au harcèlement de Xenia Fedorova.",
+      "questions": [
+        "Xenia Fedorova a-t-elle contesté son expulsion, et l'arrêté a-t-il été exécuté ?",
+        "Dans quelles conditions sa carte de résident avait-elle été prolongée de dix ans en 2024 ?",
+        "Pourquoi Moscou vise-t-il des journalistes pour une mesure prise par le gouvernement ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.463Z"
+    },
+    {
+      "id": "affaire-zhang-xinyan",
+      "titre": "Affaire Zhang Xinyan",
+      "resume": "Visée par une prime de la police de Hong Kong, la militante Zhang Xinyan a été empêchée de quitter Bangkok pour le Canada après une démarche chinoise alléguée, puis est arrivée à Vancouver le 3 août.",
+      "questions": [
+        "Quelle démarche chinoise a conduit à son blocage à Bangkok?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.515Z",
+      "veille": "canada"
+    },
+    {
+      "id": "zyuzev-trahison-russie",
+      "titre": "Affaire Zyuzev (Russie)",
+      "resume": "Le professeur russo-canadien Nikolaï Zyuzev a été condamné en Russie à sept ans de prison pour haute trahison, selon le FSB relayé par l'AFP et Meduza.",
+      "questions": [
+        "Ottawa a-t-il obtenu un accès consulaire?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.520Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-vezilier-mali",
+      "titre": "Agent français condamné puis gracié au Mali",
+      "resume": "Selon Euronews citant l'AFP, un tribunal malien a condamné début juin 2026 à 20 ans de prison Yann V., agent de l'ambassade de France à Bamako, arrêté en août 2025 avec des officiers maliens accusés de préparer un coup d'État et présenté par Bamako comme travaillant pour le renseignement français ; Paris dénonce des accusations infondées. Selon Le360, reprenant Intelligence Online, il a été gracié en août par le général Assimi Goïta grâce à une médiation des services marocains. Aucune déclaration officielle française sur cette grâce n'a été trouvée.",
+      "questions": [
+        "Quel statut protégeait l'agent, et son immunité a-t-elle été respectée ?",
+        "Quel rôle la DGED marocaine a-t-elle réellement joué dans la grâce ?",
+        "Qu'est-il advenu du jugement des officiers maliens accusés du complot ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.437Z"
+    },
+    {
+      "id": "fr-diplomates-iran-2026",
+      "titre": "Agents de l'ambassade de France arrêtés à Téhéran",
+      "resume": "Le 19 juillet 2026, deux agents de l'ambassade de France en Iran ont été visés par ce que le Quai d'Orsay qualifie d'agression préméditée imputée aux services de sécurité iraniens ; selon l'AFP, deux graphistes iraniens qui les rencontraient ont été arrêtés. Le 15 août, selon Shafaq News et ANI, le renseignement iranien a affirmé que des documents saisis révélaient un projet de réseaux clandestins impliquant un ancien ambassadeur de France, et a déclaré les deux agents persona non grata ; Paris parle d'une affaire fabriquée. Le 18 août, la France a expulsé deux agents de l'ambassade d'Iran.",
+      "questions": [
+        "Que sont devenus les deux graphistes iraniens arrêtés ?",
+        "L'Iran produira-t-il les contrats qu'il attribue à un ancien ambassadeur de France ?",
+        "Les dépêches d'août décrivent-elles un second incident ou l'épisode du 19 juillet ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.460Z"
+    },
+    {
+      "id": "alertes-aeriennes-quebec-mars-2026",
+      "titre": "Alerte aérienne à Montréal-Trudeau",
+      "resume": "Le 18 mars, le NORAD a fait escorter par des chasseurs deux vols commerciaux à destination de Montréal; l'alerte a été jugée non fondée.",
+      "questions": [
+        "Quel était le motif de l'alerte?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.505Z",
+      "veille": "canada"
+    },
+    {
+      "id": "ingerence-colombie-britannique",
+      "titre": "Allégation d'enquête sur un ministre britanno-colombien",
+      "resume": "Le 4 mai 2026, l'ancien maire de Vancouver Kennedy Stewart a affirmé à la radio qu'un ministre provincial, qu'il ne nomme pas, faisait l'objet d'une enquête pour collaboration avec le gouvernement chinois, selon l'Epoch Times. Le premier ministre David Eby dit n'avoir jamais été informé de telles préoccupations, et ni la GRC ni le SCRS n'ont confirmé ou infirmé cette allégation non vérifiée.",
+      "questions": [
+        "Une telle enquête existe-t-elle, et une autre source peut-elle corroborer l'affirmation de M. Stewart?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "israel-influence-canada",
+      "titre": "Allégations d'influence israélienne au Canada",
+      "resume": "Le 13 mai 2026, l'organisme militant Canadiens pour la justice et la paix au Moyen-Orient a publié un rapport affirmant qu'Israël mène au Canada des opérations d'influence clandestines et demandant qu'il soit désigné comme acteur de menace, selon Middle East Eye. Le rapport compile surtout des enquêtes journalistiques antérieures et, selon The Grind, Ottawa n'a pas répondu sur le fond.",
+      "questions": [
+        "Les autorités canadiennes ont-elles évalué les allégations du rapport, dont la solidité varie d'un cas à l'autre?",
+        "Israël figure-t-il parmi les pays caviardés du rapport de 2024 du comité des parlementaires sur la sécurité nationale?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "hoekstra-ambassade-pressions",
+      "titre": "Ambassadeur Hoekstra et accusations d'ingérence",
+      "resume": "L'ambassadeur américain Pete Hoekstra est au centre d'une controverse en 2026. Une pétition parlementaire lancée en août pour le déclarer persona non grata, qui lui reproche des interventions répétées dans le débat canadien, comptait plus de 280 000 signatures fin octobre selon le Boston Globe. En octobre, il a sommé les politiciens canadiens de ne pas se mêler de la politique américaine avant les élections de mi-mandat, puis l'ambassade a publié une fiche accusant le Canada d'ingérence électorale. Mark Carney a jugé ces allégations sans fondement et s'est dit déçu du rôle de l'ambassadeur.",
+      "questions": [
+        "Le gouvernement répondra-t-il à la pétition demandant de déclarer l'ambassadeur persona non grata?",
+        "Sur quels faits, au-delà de déclarations et de publicités publiques, reposent les accusations d'ingérence de l'ambassade?",
+        "Les accusations américaines auront-elles des suites après les élections de mi-mandat du 3 novembre?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-flotte-fantome",
+      "titre": "Arraisonnements de pétroliers de la flotte fantôme",
+      "resume": "La Marine nationale a arraisonné en 2026 plusieurs pétroliers partis de Russie et soupçonnés d'appartenir à la flotte fantôme : le Grinch en mer d'Alboran le 22 janvier, selon Emmanuel Macron, le Tagor à l'ouest de la Bretagne le 31 mai avec l'appui du Royaume-Uni, puis le Deliver au large de la Sicile le 23 juin, cinquième navire de ce type intercepté depuis septembre 2025 selon l'AFP. Les parquets de Marseille et de Brest ont ouvert des enquêtes, notamment pour défaut de pavillon. Moscou a qualifié l'opération contre le Tagor de piraterie.",
+      "questions": [
+        "Quelles sanctions ont été prononcées, le montant de l'amende visant le Grinch n'ayant pas été rendu public ?",
+        "Le recours répété au pavillon camerounais révèle-t-il un même réseau d'immatriculation ?",
+        "Les refus d'obtempérer du capitaine du Tagor relevaient-ils d'une consigne de non-coopération ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.397Z"
+    },
+    {
+      "id": "eisn-arrestations-2026",
+      "titre": "Arrestation d'un adolescent par l'EISN à Glengarry",
+      "resume": "Le 21 août 2026, l'EISN d'Ottawa a exécuté deux mandats de perquisition dans la région de Glengarry et arrêté un adolescent, après avoir reçu des informations sur une menace potentielle envers la population, selon un communiqué de la GRC publié le 10 septembre. Ni les accusations ni la nature de la menace ne sont précisées, et l'affaire est devant le tribunal.",
+      "questions": [
+        "Quelle était la nature de la menace potentielle, et quelles accusations ont été portées?",
+        "Pourquoi l'opération n'a-t-elle été rendue publique que près de trois semaines plus tard?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "wedding-fbi-crime-transnational",
+      "titre": "Arrestation de Ryan Wedding",
+      "resume": "Ryan Wedding, ex-planchiste olympique canadien figurant parmi les dix fugitifs les plus recherchés du FBI, a été placé en détention à Mexico le 22 janvier 2026 puis transféré en Californie. Accusé d'avoir dirigé un réseau de trafic de cocaïne lié au cartel de Sinaloa et commandité plusieurs meurtres, il a plaidé non coupable le 26 janvier.",
+      "questions": [
+        "S'est-il rendu ou a-t-il été capturé, les versions étant contradictoires?",
+        "Quel rôle les autorités canadiennes ont-elles joué dans sa localisation et son arrestation?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "menaces-politiciens-2026",
+      "titre": "Arrestations pour menaces contre le premier ministre",
+      "resume": "Entre août et septembre 2026, les EISN de la GRC ont arrêté trois hommes, un Montréalais, un Calgarien et un Edmontonien, accusés d'avoir menacé de mort le premier ministre Mark Carney par courriel ou en ligne. Les communiqués ne mentionnent ni lien étranger ni concertation entre eux.",
+      "questions": [
+        "Existe-t-il un lien entre ces trois dossiers, dont deux en Alberta à l'approche du référendum?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-arsenal-juridique-ingerences",
+      "titre": "Arsenal juridique contre les ingérences étrangères",
+      "resume": "Une circulaire du 21 janvier 2026 reconnaît au parquet de Paris une compétence exclusive de fait pour la trahison et l'espionnage et cite les inscriptions peintes parmi les formes d'ingérence. La Cour de cassation a validé le 1er avril l'usage de preuves issues d'un décryptage couvert par le secret défense. Selon Maire-info, 50 organismes étrangers avaient pris contact fin 2025 en vue d'une inscription au répertoire Argos de la HATVP. Le 22 juillet, un projet de loi contre les ingérences dans la vie démocratique a été déposé au Sénat et une commission indépendante d'information du public créée par décret.",
+      "questions": [
+        "Combien d'inscriptions effectives le répertoire Argos compte-t-il ?",
+        "Comment le projet de loi traitera-t-il les fausses informations sans lien étranger, que le rapporteur juge risquées pour la liberté d'expression ?",
+        "Quelle portée aura la jurisprudence sur le décryptage au-delà des affaires de stupéfiants ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.396Z"
+    },
+    {
+      "id": "interpol-hong-kong-2026",
+      "titre": "Assemblée d'INTERPOL à Hong Kong",
+      "resume": "Des parrains canadiens de Hong Kong Watch ont interpellé le ministre de la Sécurité publique au sujet de l'assemblée générale d'INTERPOL prévue à Hong Kong en novembre 2026.",
+      "questions": [
+        "Quelle position le Canada adoptera-t-il face aux notices visant des militants établis au Canada?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.514Z",
+      "veille": "canada"
+    },
+    {
+      "id": "attaques-lieux-juifs-2026",
+      "titre": "Attaques contre des lieux et commerces juifs",
+      "resume": "En 2026, une série d'attaques a visé des lieux et des commerces juifs en Ontario et au Québec : restaurant torontois atteint deux fois par balles, tirs de pistolets à billes de gel à North York, tentative d'incendie d'une synagogue de Westmount, succursales d'une boulangerie visées, fusillade devant une synagogue de Belleville en septembre. Des accusations ont été portées dans plusieurs cas, mais aucune autorité n'a établi de commanditaire ni de lien étranger. Début novembre, une boulangerie cachère de Montréal a été attaquée deux fois en trois jours, sans arrestation annoncée.",
+      "questions": [
+        "Ces attaques sont-elles liées entre elles ou à des commanditaires, ou s'agit-il d'actes isolés?",
+        "Pourquoi le restaurant Old Avenue a-t-il été visé deux fois en un mois, et existe-t-il un lien avec les autres fusillades de Toronto?",
+        "Quel est le mobile des attaques contre la boulangerie cachère de Montréal : crime haineux, extorsion ou commande?",
+        "D'où provenaient les armes du tireur de Belleville, et a-t-il eu des complices?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-noname057-ddos",
+      "titre": "Attaques DDoS contre La Poste et des ports français",
+      "resume": "Le 1er janvier 2026, une attaque par déni de service a rendu indisponibles pendant plusieurs heures les sites de La Poste et de La Banque Postale, selon Siècle Digital, après une première vague fin décembre 2025 revendiquée par le collectif prorusse NoName057(16) ; la DGSI et la gendarmerie enquêtent sous l'autorité du parquet de Paris. Le 14 octobre 2026, selon le Journal du Coin, le M-CERT a alerté ports et armateurs d'attaques en cours ou imminentes, après la publication par NoName057(16) d'une liste de cibles incluant les ports de Marseille et de La Rochelle. Aucune perturbation n'a été confirmée.",
+      "questions": [
+        "Qui est à l'origine de la vague du 1er janvier, en l'absence de revendication claire ?",
+        "Pourquoi Genavir, opérateur de la flotte océanographique, figure-t-il parmi les cibles d'octobre ?",
+        "Quel effet réel l'action policière internationale de juillet 2025 a-t-elle eu sur le collectif ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.388Z"
+    },
+    {
+      "id": "fr-attribution-fsb-2026",
+      "titre": "Attribution au FSB d'une campagne cyber de quinze ans",
+      "resume": "Le 13 juillet 2026, Jean-Noël Barrot a annoncé la convocation de l'ambassadeur de Russie pour une campagne cyber de sabotage et d'espionnage orchestrée, selon lui, par le FSB ; selon Solutions numériques, le C4 l'attribue au 16e Centre du FSB, dont l'unité 61240, et la fait remonter à 2010. Des sanctions visent neuf personnes et quatre entités, adoptées par l'UE selon Solutions numériques.",
+      "questions": [
+        "Pourquoi des intrusions remontant à 2017-2019 ne sont-elles attribuées publiquement qu'en 2026 ?",
+        "Quels intérêts français ont été visés par cette campagne ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.457Z"
+    },
+    {
+      "id": "automates-industriels-exposes",
+      "titre": "Automates industriels exposés sur Internet",
+      "resume": "Dans un avis du 14 septembre 2026, le Centre canadien pour la cybersécurité signale une campagne mondiale active contre les automates programmables exposés sur Internet, dont les auteurs utilisent l'IA pour générer des scripts d'exploitation. Il estime que le Canada n'a pas encore subi d'incident à fort impact, mais que les prochains seront probablement plus graves.",
+      "questions": [
+        "Qui mène cette campagne, que l'avis n'attribue à aucun acteur?",
+        "Des exploitants canadiens ont-ils été touchés en 2026?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "filtrage-securite",
+      "titre": "Avertissements par pays du SCRS au filtrage de sécurité",
+      "resume": "Selon un rapport de l'OSSNR décrit par Global News le 8 juin 2026, le SCRS joint depuis 2023 des avertissements généraux fondés sur la citoyenneté aux évaluations de sécurité de ressortissants étrangers postulant à des emplois fédéraux sensibles, d'abord pour la Chine puis pour d'autres pays. L'OSSNR y voit un risque de stéréotype; le SCRS rejette cette critique et maintient la pratique.",
+      "questions": [
+        "Combien de pays et de candidats sont visés par ces avertissements?",
+        "La pratique sera-t-elle revue à la suite du rapport de l'OSSNR?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "avis-de-menace-sikhs",
+      "titre": "Avis de menace à des militants sikhs",
+      "resume": "Depuis février 2026, plusieurs militants sikhs disent avoir été avertis par la police de menaces crédibles contre leur vie : Moninder Singh à Vancouver, Narinder Singh Randhawa à Surrey, puis en août des organisateurs du référendum sur le Khalistan et l'avocat Gurpatwant Singh Pannun, averti selon lui par le FBI puis par la GRC. Certains soupçonnent l'Inde, qui nie; aucune autorité n'a attribué publiquement ces menaces, et des experts de l'ONU ont demandé au Canada de protéger Moninder Singh. Le 18 octobre, Sikhs for Justice a tenu à Edmonton une étape de son référendum symbolique.",
+      "questions": [
+        "Qui est à l'origine de ces menaces, qu'aucune autorité n'attribue publiquement?",
+        "Les menaces seraient-elles exécutées par des membres du crime organisé, comme le suggèrent certains avis?",
+        "Comment ces avis se concilient-ils avec les déclarations de la GRC disant ne voir aucun lien étranger actuel?",
+        "Ottawa répondra-t-il publiquement à la lettre des experts de l'ONU?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "coree-du-nord-travailleurs-ti",
+      "titre": "Avis sur les travailleurs informatiques nord-coréens",
+      "resume": "Le 31 juillet 2026, Affaires mondiales Canada et la GRC se sont joints à dix pays partenaires pour qualifier de « menace interne » les travailleurs informatiques nord-coréens qui obtiennent des emplois à distance sous de fausses identités, et dont les revenus financeraient les programmes d'armement du régime. Aucune poursuite ni entreprise canadienne touchée n'est mentionnée.",
+      "questions": [
+        "Des entreprises canadiennes ont-elles embauché de tels travailleurs à leur insu?",
+        "Des facilitateurs seront-ils accusés au Canada, comme cela s'est fait aux États-Unis?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-azerbaidjan-big-outre-mer",
+      "titre": "Baku Initiative Group et outre-mer français",
+      "resume": "Selon des médias azerbaïdjanais, le Baku Initiative Group (BIG) a multiplié en 2026 les prises de position contre la politique française outre-mer : accusation d'organiser l'exode des jeunes Kanak, appui aux remarques d'un comité de l'ONU sur le corps électoral calédonien, réunions de militants de plusieurs territoires, relais de lettres d'un militant guadeloupéen et d'une initiative onusienne d'Oscar Temaru, soutien à l'opposition kanak à un partenariat européen sur le nickel. En octobre, la Fédération calédonienne de football a dénoncé l'usage non autorisé de l'image de jeunes joueurs au Mondial U15 de Bakou.",
+      "questions": [
+        "Le BIG agit-il de manière autonome ou sur instruction des autorités azerbaïdjanaises ?",
+        "Les « délégations » des équipes calédonienne et polynésienne revendiquées par le BIG ont-elles existé ?",
+        "Qui a organisé l'accueil avec drapeaux du FLNKS au passage du bus à Bakou ?",
+        "Quel rôle le BIG a-t-il réellement joué auprès des mécanismes onusiens ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.404Z"
+    },
+    {
+      "id": "brouillage-gnss",
+      "titre": "Brouillage des signaux de navigation",
+      "resume": "En septembre, un vol d'Air Canada Delhi-Toronto a signalé une perte de signal GNSS au-dessus de la Suède, la veille d'un cas semblable chez KLM. Six États attribuent à la Russie l'interférence dans la région, mais pas cet incident précis; la source est unique et secondaire.",
+      "questions": [
+        "Transports Canada a-t-il recensé d'autres pertes de GNSS sur des vols canadiens?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T22:08:33.155Z",
+      "veille": "canada"
+    },
+    {
+      "id": "cables-sous-marins-atlantique",
+      "titre": "Câbles sous-marins de l'Atlantique",
+      "resume": "En janvier, le cargo russe Sinegorsk a mouillé près de câbles transatlantiques, dont des liaisons vers le Canada, dans le canal de Bristol, avant que le gouvernement britannique lui ordonne de quitter ses eaux. Aucun dommage à un câble au large du Canada n'a été rapporté en 2026; la cause d'une panne du câble Amsterdam-Montréal en juin reste inconnue.",
+      "questions": [
+        "Des navires russes ont-ils été observés près de câbles reliés au Canada dans les eaux canadiennes?",
+        "Quelle est la cause de la panne du câble Amsterdam-Montréal?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T22:08:33.140Z",
+      "veille": "canada"
+    },
+    {
+      "id": "ice-detentions-canadiens",
+      "titre": "Canadiens détenus par l'immigration américaine",
+      "resume": "En février 2026, Ottawa a conseillé aux membres des Premières Nations de porter un passeport pour entrer aux États-Unis, après des confiscations de cartes de statut. En mars, une Canadienne et sa fille de sept ans ont été placées en détention migratoire au Texas, Affaires mondiales Canada disant connaître de multiples cas de Canadiens détenus. En octobre, le rapport consulaire annuel a fait état d'une hausse de 60 % des arrestations et détentions de Canadiens aux États-Unis entre avril 2025 et mars 2026, malgré un recul de 25 % des voyages, sans explication officielle ni chiffre absolu.",
+      "questions": [
+        "Combien de Canadiens sont détenus par l'immigration américaine, et pour quels motifs?",
+        "Que sont devenues la Canadienne et sa fille détenues au Texas, toujours en détention le 23 mars?",
+        "Ottawa contestera-t-il auprès de Washington la confiscation de cartes de statut des Premières Nations?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "canadiens-detenus-irak",
+      "titre": "Canadiens détenus transférés en Irak",
+      "resume": "Des Canadiens détenus par les forces kurdes en Syrie ont été transférés en Irak par l'armée américaine en janvier. Bagdad a évoqué un rapatriement qu'Ottawa a démenti; en août, des familles ont reçu leurs premiers appels depuis des années, sans annonce de rapatriement.",
+      "questions": [
+        "Combien de Canadiens sont détenus en Irak, et où?",
+        "Ottawa entend-il les rapatrier?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.500Z",
+      "veille": "canada"
+    },
+    {
+      "id": "canadiens-tues-ukraine",
+      "titre": "Canadiens tués en Ukraine",
+      "resume": "Deux Britanno-Colombiens ont été tués par des drones en Ukraine en 2026. Jessy Bourgeois, de Nanaimo, volontaire auprès de l'armée ukrainienne, est mort le 18 août dans la région de Donetsk, selon sa famille. Jesse Adams, fondateur d'un refuge canin de Victoria, a succombé après qu'un drone a frappé le véhicule avec lequel il transportait des animaux dans l'est du pays, a annoncé son organisme en octobre.",
+      "questions": [
+        "Combien de Canadiens servent ou travaillent comme volontaires en Ukraine, alors qu'Ottawa ne tient aucun registre?",
+        "Qui a lancé le drone qui a frappé le véhicule de Jesse Adams?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-ncl-nickel-strategique",
+      "titre": "Capitaux chinois et reprise de l'usine KNS",
+      "resume": "Selon une dépêche AFP reprise par Les Nouvelles Calédoniennes le 15 octobre 2026, des groupes chinois figurent parmi les candidats à la reprise de l'usine Koniambo Nickel, à l'arrêt depuis 2024. Le député Emmanuel Tjibaou affirme qu'Emmanuel Macron lui a dit s'opposer à l'entrée de capitaux chinois, position comparable à celle rapportée par Nicolas Metzdorf en septembre.",
+      "questions": [
+        "L'État confirmera-t-il officiellement le veto prêté au président ?",
+        "Quelles options de reprise restent pour l'usine si les candidats chinois sont écartés ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.474Z"
+    },
+    {
+      "id": "fr-tags-cercueils-ukraine",
+      "titre": "Cercueils « soldats français en Ukraine » : bilan judiciaire",
+      "resume": "Selon un tableau de synthèse publié par Diploweb en mai 2026, sept hommes nés en Moldavie, mis en examen pour avoir tagué à Paris des cercueils accompagnés de la mention « soldats français en Ukraine », ont été jugés à partir de février 2026 et condamnés à des amendes, la plus lourde (10 000 euros) visant le donneur d'ordre présumé. L'auteur relie l'opération à des services russes, sans que cette attribution soit présentée comme judiciaire.",
+      "questions": [
+        "Des amendes modestes sont-elles à la mesure d'une opération présentée comme commanditée depuis l'étranger ?",
+        "L'enquête a-t-elle identifié un commanditaire au-delà du donneur d'ordre présumé ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.402Z"
+    },
+    {
+      "id": "fr-chine-pacifique-sud",
+      "titre": "Chine et présence française dans le Pacifique Sud",
+      "resume": "Selon l'AFP, la marine chinoise a annoncé le 6 juillet 2026 le tir réussi d'un missile stratégique à ogive d'entraînement depuis un sous-marin nucléaire vers les eaux internationales du Pacifique, suscitant l'inquiétude de la Nouvelle-Zélande et du Japon ; aucune réaction française n'est rapportée. En septembre, selon Les Nouvelles Calédoniennes, l'ambassadrice de France pour le Pacifique, Véronique Roger-Lacan, a relié l'absence de Kiribati et des Îles Salomon au Forum des îles du Pacifique à une forte influence chinoise.",
+      "questions": [
+        "Où se situait la zone d'impact du missile par rapport aux territoires français ?",
+        "Pourquoi aucune réaction publique française n'a-t-elle été relevée ?",
+        "Sur quels éléments repose le lien établi par l'ambassadrice entre ces absences et l'influence chinoise ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.450Z"
+    },
+    {
+      "id": "cpsnr",
+      "titre": "Comité des parlementaires sur la sécurité nationale",
+      "resume": "Le 1er mai 2026, la Cour suprême a confirmé la disposition qui empêche les membres du Comité des parlementaires sur la sécurité nationale et le renseignement (CPSNR) d'invoquer le privilège parlementaire pour divulguer des secrets. Le rapport annuel 2025 du comité, déposé le 8 juin, signale que l'examen quinquennal de sa loi constitutive accuse trois ans de retard et qu'aucun ministre ne lui a refusé d'information en 2025. Le 11 juin, le comité a annoncé un examen de la collecte de renseignement étranger.",
+      "questions": [
+        "Le comité reviendra-t-il sur ses constats de 2024 au sujet de parlementaires prétendument complices?",
+        "Quand l'examen quinquennal de la loi constitutive du comité aura-t-il lieu?",
+        "Quels seront le mandat et l'échéancier de l'examen sur le renseignement étranger?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "complot-pannun",
+      "titre": "Complot contre Gurpatwant Singh Pannun",
+      "resume": "Le 13 février 2026, Nikhil Gupta a plaidé coupable à New York à trois chefs liés au projet d'assassinat de Gurpatwant Singh Pannun, avocat de Sikhs for Justice et citoyen canadien et américain. Selon les procureurs américains, il agissait sous la direction de Vikash Yadav, alors employé du Secrétariat du Cabinet indien; l'Inde nie toute implication étatique.",
+      "questions": [
+        "Vikash Yadav sera-t-il poursuivi ou remis à la justice américaine?",
+        "Quelle peine sera imposée à M. Gupta, le prononcé ayant été reporté à plusieurs reprises?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "surveillance-scrs",
+      "titre": "Constats de l'OSSNR sur la conformité du SCRS",
+      "resume": "Deux examens de l'Office de surveillance des activités en matière de sécurité nationale et de renseignement (OSSNR) ont mis en cause en 2026 la reddition de comptes du SCRS. Selon un rapport obtenu par Global News, le Service a reconnu 22 cas de non-conformité à la Charte en 2023-2024 sans en informer officiellement le ministre. Fin septembre, un autre examen a conclu que le SCRS restait dans les limites des actes autrement illégaux qu'il peut commettre, mais omettait souvent de consigner les justifications exigées; le Service dit ne pas partager nécessairement toutes ces conclusions.",
+      "questions": [
+        "Le SCRS signale-t-il désormais au ministre ses cas de non-conformité à la Charte?",
+        "Sur quels points le Service conteste-t-il les conclusions de l'OSSNR?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-crise-algerie",
+      "titre": "Crise diplomatique franco-algérienne",
+      "resume": "Selon Hespress, Alger a convoqué fin janvier 2026 le chargé d'affaires français après un numéro de « Complément d'enquête » sur les méthodes d'espionnage attribuées à l'Algérie, la télévision publique algérienne annonçant l'expulsion de l'ambassadeur Stéphane Romatet, sans suite officielle. Selon l'Élysée cité par l'AFP, celui-ci est retourné à Alger le 8 mai, tandis que les expulsions d'Algériens reprenaient. Selon Euronews, le journaliste Christophe Gleizes comptait 500 jours de détention au 11 novembre, un décompte difficile à concilier avec l'arrestation de mai 2024 que mentionne la même source.",
+      "questions": [
+        "Pourquoi aucune grâce n'est-elle intervenue malgré le dégel de mai et le retrait du pourvoi ?",
+        "À quelle date commence réellement la détention de Christophe Gleizes ?",
+        "Le sort de l'agent consulaire algérien détenu en France conditionne-t-il la suite de la normalisation ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.398Z"
+    },
+    {
+      "id": "ia-offensive-2026",
+      "titre": "Cyberattaques assistées par IA et sites fédéraux",
+      "resume": "Ce dossier suit l'usage offensif de l'intelligence artificielle et la vulnérabilité de sites fédéraux. Selon le laboratoire Transluce, des agents d'IA ont tenté des injections SQL contre le site de Bibliothèque et Archives Canada au printemps 2026, sans rien obtenir. En octobre, Ottawa a mis hors ligne certains sites après la divulgation de deux failles critiques de PHP, puis le Centre pour la cybersécurité a publié un bulletin sur des attaques par IA agentive attribuées à l'auteur de menace Storm-0940. Les autorités ne signalent ni compromission de systèmes fédéraux ni victime canadienne.",
+      "questions": [
+        "Qui exploitait les agents d'IA qui ont sondé le site de Bibliothèque et Archives Canada?",
+        "Des organisations canadiennes figurent-elles parmi les cibles de Storm-0940, et quel État est derrière cet auteur de menace?",
+        "Les tentatives d'exploitation des failles de PHP observées avant leur annonce ont-elles touché des systèmes fédéraux?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "hacktivistes-pro-russes",
+      "titre": "Cyberattaques revendiquées par des groupes pro-russes",
+      "resume": "Des groupes pro-russes, dont NoName, revendiquent des intrusions et des attaques contre des systèmes publics canadiens. Le rapport annuel du CST, publié en juin 2026, révèle que NoName a revendiqué en octobre 2025 un accès aux commandes de l'usine d'eau d'une municipalité québécoise, sans dire si cet accès était réel. Selon The Bureau et CBC, une intrusion a visé en juillet l'usine d'eau de Saint-Noël, où le chlore a été manipulé sans que l'eau soit compromise. Le même été, le site du CRTC a connu des semaines de pannes; NoName l'avait désigné comme cible et l'organisme refuse de commenter.",
+      "questions": [
+        "L'accès revendiqué en octobre 2025 à une usine d'eau québécoise était-il réel, et quelle municipalité était visée?",
+        "Ces groupes agissent-ils de façon autonome ou en lien avec des structures de l'État russe?",
+        "Les pannes du site du CRTC résultaient-elles d'attaques par déni de service?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "cyberespionnage-recherche",
+      "titre": "Cyberespionnage visant la recherche universitaire",
+      "resume": "Des entreprises privées ont révélé en 2026 deux campagnes de cyberespionnage contre la recherche. En juin, Google a décrit un groupe ayant compromis de 2023 à 2025 des organismes de recherche universitaire, médicale et militaire aux États-Unis et au Canada, et juge ses méthodes cohérentes avec des activités liées à la Chine. En juillet, Radio-Canada a rapporté, d'après Proofpoint, qu'un autre groupe ciblait des départements de physique et de génie; ses auteurs ne sont pas identifiés, mais des indices pointent vers des intérêts chinois. Les établissements canadiens touchés ne sont pas nommés.",
+      "questions": [
+        "Quels établissements canadiens ont été touchés, et quelles données ont été consultées?",
+        "Les autorités canadiennes confirmeront-elles les attributions prudentes avancées par Google et Proofpoint?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "cyberincidents-secteur-public-2026",
+      "titre": "Cyberincidents dans le secteur public",
+      "resume": "Série de cyberincidents visant des organismes publics en 2026 : santé publique en Ontario, centre de services scolaire de la Côte-Nord, arrondissement d'Anjou, Commission de la construction du Québec (685 000 personnes avisées), district scolaire de Burnaby et comptes clients d'Hydro-Québec. Les auteurs revendiqués sont des groupes de rançongiciel; aucune attribution étatique n'est rapportée.",
+      "questions": [
+        "Certains de ces incidents ont-ils un lien avec un acteur étatique?",
+        "Les organismes touchés publieront-ils des bilans complets?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.494Z",
+      "veille": "canada"
+    },
+    {
+      "id": "resilience-infrastructures-essentielles",
+      "titre": "Cyberrésilience des infrastructures essentielles",
+      "resume": "Le 17 avril 2026, le Centre canadien pour la cybersécurité a lancé une initiative invitant les exploitants d'infrastructures essentielles à pouvoir isoler leurs systèmes critiques jusqu'à trois mois et à fonctionner de façon autonome, en évoquant des acteurs étatiques qu'il ne nomme pas. En juin, le projet de loi C-8 sur la cybersécurité a reçu la sanction royale : les modifications à la Loi sur les télécommunications sont entrées en vigueur immédiatement, tandis que la Loi sur la protection des cybersystèmes essentiels sera mise en œuvre par étapes.",
+      "questions": [
+        "Quel scénario de menace justifie de prévoir un isolement de trois mois?",
+        "Selon quel calendrier les obligations des exploitants entreront-elles en vigueur?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "deces-militaires-lettonie",
+      "titre": "Décès d'un militaire canadien en Lettonie",
+      "resume": "L'artilleur Sebastian Halmagean, de Hamilton, déployé en Lettonie dans le cadre de l'opération REASSURANCE, est mort le 29 janvier 2026 près de Riga, a annoncé la Défense nationale. La police militaire lettone enquête avec l'appui de la police militaire des Forces canadiennes, et le ministère dit que rien n'indique une menace accrue pour les militaires déployés.",
+      "questions": [
+        "Quelles sont la cause et les circonstances du décès, qui n'ont pas été rendues publiques?",
+        "Les conclusions de l'enquête de la police militaire lettone seront-elles publiées?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "drones-sites-sensibles",
+      "titre": "Défenses antidrones des installations militaires",
+      "resume": "Selon CBC, résumée par un site spécialisé en mai 2026, la Marine et l'Aviation déploient des systèmes antidrones sur leurs bases, sans que la Défense nationale précise lesquels ni où. Le 28 septembre, le ministère a publié un avis d'approvisionnement pour protéger ses installations partout au Canada, une porte-parole évoquant ensuite une activité de drones non autorisée. Aucun incident précis n'a été rendu public, et certains aspects relèvent d'une exception de sécurité nationale.",
+      "questions": [
+        "Quels survols ou incidents de drones ont motivé ces mesures, alors qu'aucun n'a été rendu public?",
+        "Quels sites sont protégés, et par quels systèmes?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "desinformation-russe-canada",
+      "titre": "Désinformation attribuée à des réseaux pro-Kremlin",
+      "resume": "En avril 2026, un comité sénatorial a qualifié la désinformation russe de menace « urgente » dépassant la capacité de réponse du Canada. En septembre, DisinfoWatch a recensé près de deux douzaines d'articles du réseau pro-Kremlin Pravda en 24 heures lors de la visite de Volodymyr Zelensky; en octobre, un faux site du Toronto Sun, d'auteur inconnu, lui a prêté l'achat d'un bunker en Nouvelle-Écosse. En novembre, une enquête a révélé que quatorze personnes liées au Canada avaient été interviewées pour le réseau russe Doppelgänger, plusieurs disant avoir ignoré où leurs propos seraient diffusés.",
+      "questions": [
+        "Qui a créé le faux site du Toronto Sun, dont la méthode rappelle des campagnes russes sans infrastructure commune connue?",
+        "Quelle est la portée réelle de ces contenus auprès du public canadien?",
+        "Ottawa donnera-t-il suite aux dix recommandations du comité sénatorial?",
+        "Les entrevues de personnes liées au Canada pour le réseau Doppelgänger susciteront-elles une réaction officielle?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-gleizes-algerie",
+      "titre": "Détention de Christophe Gleizes en Algérie",
+      "resume": "Selon France 24 et RSF, le journaliste Christophe Gleizes, condamné en Algérie à sept ans de prison pour « apologie du terrorisme », a reçu le 11 mai 2026 sa première visite consulaire, actée deux jours plus tôt lors d'une rencontre entre la ministre déléguée Alice Rufo et le président Tebboune. Selon Wikipédia, qui s'appuie sur Le Figaro, sa libération éventuelle était liée dans les négociations à celle de Smaïl R., agent consulaire algérien détenu en France dans l'affaire Amir DZ. Le PNAT a requis la remise en liberté de ce dernier, mais la justice l'a maintenu en détention en juillet.",
+      "questions": [
+        "Les deux dossiers font-ils l'objet d'un échange négocié, comme le craint l'avocat de l'opposant ?",
+        "Pourquoi aucune visite consulaire n'avait-elle eu lieu avant mai 2026 ?",
+        "Le maintien en détention de l'agent consulaire bloque-t-il la grâce attendue ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.430Z"
+    },
+    {
+      "id": "fr-algerie-amir-dz",
+      "titre": "Diaspora et services algériens : enquête télévisée",
+      "resume": "Selon Hespress, qui relaie une enquête de « Complément d'enquête », les services algériens solliciteraient des binationaux occupant des fonctions officielles en France pour obtenir des informations ou exercer des pressions. L'enquête évoque une note du contre-espionnage français et le cas d'un ingénieur du ministère des Finances poursuivi pour intelligence avec une puissance étrangère.",
+      "questions": [
+        "L'officier traitant présumé, couvert par un statut consulaire, a-t-il quitté la France sans faire l'objet de poursuites ?",
+        "Que dit précisément l'émission d'origine, connue ici par le compte rendu d'un média marocain ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.375Z"
+    },
+    {
+      "id": "fr-azerbaidjan-outre-mer",
+      "titre": "Discours azerbaïdjanais sur l'outre-mer et la Corse",
+      "resume": "Selon Les Nouvelles Calédoniennes, le président azerbaïdjanais Ilham Aliev a appelé le 13 juillet 2026, lors d'un forum des médias à Choucha, à la « liberté » de la Nouvelle-Calédonie, de la Polynésie, de la Martinique et de Saint-Martin, citant aussi la Corse ; le discours n'a été relevé que plusieurs jours plus tard par Le Figaro. Le 27 octobre, selon Report.az, le directeur exécutif du Groupe d'initiative de Bakou a condamné le rejet par le Sénat de la réforme sur l'autonomie de la Corse, y voyant une mentalité coloniale.",
+      "questions": [
+        "La France a-t-elle réagi officiellement au discours d'Ilham Aliev ?",
+        "L'implication directe du chef de l'État azerbaïdjanais marque-t-elle une évolution par rapport à l'action du BIG ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.455Z"
+    },
+    {
+      "id": "election-quebec-2026",
+      "titre": "Élection québécoise de 2026 et craintes d'ingérence",
+      "resume": "L'élection québécoise d'octobre 2026 s'est déroulée sur fond de craintes d'ingérence américaine. Un essai d'un groupe de réflexion américain prônait dès février un soutien au Parti québécois; au début de la campagne, le secrétaire américain au Commerce a accusé le gouvernement Carney d'avoir fabriqué un prétexte pour freiner ce parti. Fin septembre, la première ministre Christine Fréchette s'est dite très préoccupée, puis a reconnu qu'aucune ingérence n'était confirmée. Le Parti québécois a formé un gouvernement minoritaire, et aucune conclusion officielle sur une ingérence n'a été repérée.",
+      "questions": [
+        "Les autorités publieront-elles un bilan des allégations d'ingérence soulevées pendant la campagne?",
+        "Qui est l'auteur de l'essai signé « Mukden », et quels liens son organisation a-t-elle avec l'administration américaine?",
+        "Que contenaient les approches tarifaires de l'ambassade américaine auprès du gouvernement du Québec?",
+        "Un acteur hostile pourrait-il reproduire délibérément la faille qui a conduit des robots conversationnels à diffuser de fausses informations électorales?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-hayi-iran",
+      "titre": "Engin incendiaire devant Bank of America à Paris",
+      "resume": "Dans la nuit du 28 mars 2026, selon l'AFP, un mineur a été interpellé rue La Boétie alors qu'il s'apprêtait à allumer un engin incendiaire devant le siège parisien de Bank of America ; quatre personnes, dont trois mineurs, ont été mises en examen et écrouées le 1er avril. Selon le PNAT, les faits paraissent pouvoir être rattachés au groupe pro-iranien HAYI, sans que ce lien soit formellement établi.",
+      "questions": [
+        "Quel lien unit les exécutants au groupe HAYI, dont une vidéo désignait la cible cinq jours plus tôt ?",
+        "Comment et pour quel montant les adolescents ont-ils été recrutés, les sources divergeant ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.415Z"
+    },
+    {
+      "id": "grc-enquete-structurelle-israel-hamas",
+      "titre": "Enquête structurelle de la GRC (Israël-Hamas)",
+      "resume": "Selon des documents israéliens rapportés en février, plus de 1 500 Canadiens servaient dans l'armée israélienne en 2025. La GRC dit mener une enquête structurelle liée au conflit, sans suite publique visible.",
+      "questions": [
+        "Où en est l'enquête structurelle de la GRC?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.501Z",
+      "veille": "canada"
+    },
+    {
+      "id": "etudiant-waterloo-aeroports",
+      "titre": "Étudiant de Waterloo et photos d'aéroports",
+      "resume": "Weiheng Zeng, citoyen chinois étudiant à l'Université de Waterloo, a été intercepté le 23 août 2026 à la frontière américaine, puis arrêté et accusé de fausses déclarations; il a plaidé non coupable le 9 novembre. Selon une déclaration sous serment du FBI, il aurait photographié des installations des aéroports O'Hare de Chicago et Pearson de Toronto à la demande d'un contact qu'il croyait lié au Parti communiste chinois.",
+      "questions": [
+        "Qui était le contact qui aurait demandé les photos, et à quoi devaient-elles servir?",
+        "Les autorités canadiennes enquêtent-elles sur les faits allégués à l'aéroport Pearson?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-iran-diplomates-2026",
+      "titre": "Expulsion de deux agents de l'ambassade d'Iran",
+      "resume": "Le ministère des Affaires étrangères a annoncé le 18 août 2026 que deux agents de l'ambassade d'Iran en France étaient déclarés persona non grata au titre de l'article 9 de la Convention de Vienne, l'ambassadeur étant convoqué. La mesure répond à l'agression du 19 juillet contre deux agents français à Téhéran.",
+      "questions": [
+        "Téhéran a-t-il pris de nouvelles mesures de rétorsion après ces expulsions ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.467Z"
+    },
+    {
+      "id": "defense-norad-f35",
+      "titre": "F-35, NORAD et défense continentale",
+      "resume": "En janvier 2026, l'ambassadeur américain Pete Hoekstra a averti que le NORAD « devrait être modifié » si le Canada renonçait à acheter ses 88 F-35, ajoutant que des appareils américains voleraient alors plus souvent dans l'espace aérien canadien. En mai, le Pentagone a suspendu la Commission permanente mixte de défense, créée en 1940, pour en réévaluer l'utilité; un responsable a reproché au Canada de ne pas avoir fait les choix nécessaires pour être un partenaire crédible. Mark Carney a minimisé la portée de cette pause.",
+      "questions": [
+        "Le Canada achètera-t-il les 88 F-35 prévus?",
+        "La Commission permanente mixte de défense reprendra-t-elle ses travaux, et à quelles conditions?",
+        "Washington modifiera-t-il le NORAD si l'achat est réduit?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "shen-yun-2026",
+      "titre": "Fausses alertes et démarche consulaire visant Shen Yun",
+      "resume": "Fin mars 2026, un courriel menaçant de faire exploser une salle de Toronto a entraîné l'annulation des représentations restantes de Shen Yun, troupe liée au Falun Gong; un courriel semblable a visé Vancouver le 2 avril, où la police a conclu à un canular et relié l'adresse d'envoi à un numéro de téléphone en Chine. Global News a révélé en mai que des diplomates chinois à Vancouver avaient rencontré, à leur demande, un employé des théâtres municipaux. Selon des sources du média, le consulat voulait l'annulation du spectacle; le cabinet du maire confirme la rencontre mais nie toute pression.",
+      "questions": [
+        "Qui a envoyé les fausses alertes à la bombe, et existe-t-il un lien avec la démarche du consulat?",
+        "Qu'a demandé le consulat de Chine au personnel des théâtres municipaux de Vancouver?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "sms-blasters-gta",
+      "titre": "Fausses antennes cellulaires dans la région de Toronto",
+      "resume": "En avril 2026, la police de Toronto a annoncé l'arrestation de trois hommes, au terme du projet Lighthouse, pour avoir exploité des « SMS blasters », appareils qui imitent une antenne cellulaire afin d'envoyer des textos d'hameçonnage aux téléphones à proximité. Les enquêteurs évoquent environ 13 millions de captations de téléphones, et la police parle d'une première au Canada.",
+      "questions": [
+        "D'où provenait le matériel, et les suspects agissaient-ils pour le compte de commanditaires?",
+        "Les appareils ont-ils servi à autre chose qu'à la fraude, par exemple à de l'interception ciblée?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-municipales-2026-ingerences",
+      "titre": "Faux sites de presse locale avant les municipales",
+      "resume": "Selon Localtis, le bulletin n°5 du réseau de protection des élections publié par le SGDSN le 27 février 2026 confirme deux ingérences numériques étrangères. Viginum y attribue au groupe russe Storm-1516 l'enregistrement de plus de 100 noms de domaine imitant des journaux locaux français.",
+      "questions": [
+        "À quoi sont destinés ces domaines enregistrés en masse et restés sans contenu actif ?",
+        "Comment expliquer l'écart entre l'ampleur de cette infrastructure et l'impact jugé faible ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.407Z"
+    },
+    {
+      "id": "infrastructures-incidents-2026",
+      "titre": "Feu près d'un poste électrique à Port aux Basques",
+      "resume": "Le 10 juillet 2026, un feu de broussailles a été découvert près d'un poste électrique de Newfoundland Power, à l'ouest de Port aux Basques, puis éteint par les pompiers volontaires. Après un premier examen, la GRC croit qu'il a pu être allumé volontairement et sollicite l'aide du public; ni dommage au poste ni panne ne sont mentionnés.",
+      "questions": [
+        "Le feu a-t-il été allumé volontairement, et le poste électrique était-il visé?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "hezbollah-financement-canada",
+      "titre": "Financement présumé du Hezbollah lié au Canada",
+      "resume": "Deux affaires de 2026 touchent au financement présumé du Hezbollah depuis le Canada. En janvier, la Cour fédérale a jugé raisonnable l'interdiction de territoire d'un exportateur de véhicules de la région de Toronto, que les autorités d'immigration soupçonnent de blanchiment au profit de l'organisation, ce qu'il nie. En mars, le Trésor américain a sanctionné un réseau accusé de financer le Hezbollah, dont une société constituée en Colombie-Britannique; Ottawa a dit que la GRC et le SCRS examinaient la situation. Aucune accusation criminelle n'a été portée dans ces deux dossiers.",
+      "questions": [
+        "Le Canada sanctionnera-t-il la société de Colombie-Britannique désignée par Washington?",
+        "L'examen confié à la GRC et au SCRS débouchera-t-il sur une enquête criminelle?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "flottille-sumud-2026",
+      "titre": "Flottille Global Sumud",
+      "resume": "Israël a intercepté en avril puis en mai la flottille Global Sumud, qui faisait route vers Gaza; douze Canadiens ont été détenus en mai, et la ministre Anand a dénoncé des sévices et convoqué l'ambassadeur d'Israël.",
+      "questions": [
+        "Les allégations de sévices feront-elles l'objet d'une enquête?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.508Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-fuites-donnees-etat-2026",
+      "titre": "Fuites de données dans les administrations en 2026",
+      "resume": "Plusieurs organismes publics ont subi des vols de données en 2026 : OFII, HubEE et Urssaf en janvier selon Localtis, ANTS en avril (jusqu'à 11,7 millions de comptes, un mineur de 15 ans en garde à vue), Éducation nationale à trois reprises, puis DGFiP en août, vol revendiqué par un acteur se présentant comme ZeroBytes. Bercy évoquait une attaque sophistiquée, l'ANSSI a conclu au contraire à des défauts élémentaires. Le Premier ministre a lancé en septembre l'opération REACTIV ; 99 violations ont été signalées en deux mois, dont 67 confirmées. Aucun lien étatique n'est établi publiquement.",
+      "questions": [
+        "Ces fuites successives relèvent-elles d'acteurs isolés ou d'une exploitation coordonnée d'identifiants volés ?",
+        "Des données d'élèves ont-elles été exposées, le ministère le niant et Maire-info évoquant 1,22 million d'élèves ?",
+        "Quelle est l'ampleur réelle de la fuite de l'ANTS, entre 11,7 millions de comptes selon l'État et environ 19 millions selon la revendication ?",
+        "Une piste iranienne est-elle étudiée pour la DGFiP, sur laquelle le ministre a refusé de se prononcer ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.395Z"
+    },
+    {
+      "id": "fusillades-toronto-tireurs-a-gages",
+      "titre": "Fusillades de Toronto et tireurs à gages",
+      "resume": "En mars 2026, des tirs ont visé trois synagogues du Grand Toronto puis le consulat des États-Unis, atteint de nouveau en juillet; un policier a été tué en juin lors d'une perquisition liée à l'enquête. La police attribue des dizaines de fusillades à des « criminels à gages » recrutés en ligne et dit ignorer qui les paie. Une plainte américaine impute deux de ces attaques à un cadre de Kata'ib Hizballah et une secrétaire d'État fédérale a évoqué une « entité étrangère », sans confirmation policière; le renseignement fédéral juge possible un rôle iranien, sans lien définitivement établi.",
+      "questions": [
+        "Qui commande et paie les fusillades confiées à ces tireurs recrutés en ligne?",
+        "Les autorités canadiennes confirmeront-elles ou écarteront-elles l'attribution américaine à un réseau lié à Kata'ib Hizballah?",
+        "Quelle synagogue canadienne la plainte américaine vise-t-elle, et qui a tiré sur Temple Emanu-El le 2 mars?",
+        "Qui a commandé le second tir contre le consulat, survenu après l'arrestation aux États-Unis du commanditaire présumé du premier?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "gouvernance-securite-nationale",
+      "titre": "Gouvernance de la sécurité nationale",
+      "resume": "L'architecture fédérale de sécurité nationale a connu plusieurs changements en 2026. En mars, un remaniement a semblé abolir le poste de conseiller à la sécurité nationale, avant que le Bureau du Conseil privé précise que David Morrison l'occuperait « aussi ». En août, Global News a révélé que l'examen obligatoire de la loi issue du projet C-59 accusait environ trois ans de retard. Fin octobre, le gouvernement a publié une stratégie de sécurité nationale qui, selon l'analyste Wesley Wark, ne désigne aucun État hostile, puis le budget a prévu six milliards de dollars sur dix ans pour le SCRS.",
+      "questions": [
+        "À quoi serviront précisément les six milliards de dollars alloués au SCRS?",
+        "Pourquoi la stratégie ne nomme-t-elle aucun État alors que le SCRS en désigne cinq dans son rapport public?",
+        "Qui lancera l'examen parlementaire de la loi issue du projet C-59, et quand?",
+        "Comment David Morrison cumulera-t-il les fonctions de conseiller diplomatique et de conseiller à la sécurité nationale?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "shinyhunters-2026",
+      "titre": "Groupe d'extorsion ShinyHunters",
+      "resume": "Le piratage de la plateforme Canvas par ShinyHunters, en mai, a forcé des universités canadiennes à couper l'accès à leurs cours; en octobre, un dirigeant canadien en cybersécurité a été arrêté aux États-Unis dans l'enquête sur le groupe.",
+      "questions": [
+        "Quel rôle l'accusé canadien aurait-il joué?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.509Z",
+      "veille": "canada"
+    },
+    {
+      "id": "haiti-sanctions-gangs",
+      "titre": "Haïti, sanctions et élections",
+      "resume": "Ottawa s'est inquiété en octobre de candidatures aux élections haïtiennes de personnes visées par des sanctions internationales, dont certaines liées aux gangs.",
+      "questions": [
+        "Les personnes sanctionnées par le Canada pourront-elles se présenter?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T22:23:29.425Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-terrorisme-etat",
+      "titre": "Huit procédures pour « terrorisme d'État »",
+      "resume": "Selon North Africa Post et Hespress, le procureur national antiterroriste Olivier Christen a indiqué sur franceinfo que huit procédures liées à un « terrorisme d'État » étaient ouvertes, trois concernant l'Iran et cinq principalement la Russie et l'Algérie, visant surtout des opposants réfugiés en France. Une source du ministère algérien des Affaires étrangères, citée par l'APS, a vivement dénoncé ces propos.",
+      "questions": [
+        "Comment se répartissent les cinq procédures entre la Russie et l'Algérie ?",
+        "Que dit précisément l'entretien original de franceinfo, connu ici surtout par des relais marocains ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.418Z"
+    },
+    {
+      "id": "bfc-wainwright-incendie",
+      "titre": "Incendie mortel à la BFC Wainwright",
+      "resume": "Le 17 octobre 2026, un incendie a rattrapé des soldats en exercice de tir réel à la BFC Wainwright, en Alberta : cinq sont morts et 38 ont été blessés, selon la Défense nationale. De premiers comptes rendus, démentis depuis, évoquaient une explosion et sept morts; des rumeurs de sabotage ont circulé, mais la Défense dit n'avoir aucun indice d'activité terroriste et DisinfoWatch juge marginale l'amplification étrangère. Fin octobre, des données satellitaires ont contredit la chronologie de l'armée, qui a reconnu que le feu avait pris plusieurs heures plus tôt; trois enquêtes sont en cours.",
+      "questions": [
+        "À quelle heure et comment le feu a-t-il pris, et pourquoi le croyait-on contenu?",
+        "L'avertissement de vent diffusé à 14 h 14 a-t-il été pris en compte dans la conduite de l'exercice?",
+        "Que concluront les trois enquêtes en cours sur la cause de l'incendie?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-sabotage-industrie-defense",
+      "titre": "Incendies d'installations électriques dans le Cher",
+      "resume": "Dans la nuit du 6 au 7 avril 2026, trois installations électriques alimentant des usines de KNDS et MBDA ont été incendiées simultanément à Bourges, La Chapelle-Saint-Ursin et Saint-Florent-sur-Cher, privant plus de 3 000 foyers de courant selon Militarnyi citant franceinfo. Selon le député Matthieu Bloch, une banderole « Action contre la guerre » a été retrouvée sur un site.",
+      "questions": [
+        "Qui disposait du repérage nécessaire pour viser simultanément trois points précis ?",
+        "Une manipulation étrangère est-elle examinée, alors que les autorités privilégient publiquement l'ultragauche ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.420Z"
+    },
+    {
+      "id": "evaluations-influence-americaine",
+      "titre": "Influence américaine sur le débat en ligne canadien",
+      "resume": "Une étude de chercheurs de McGill, fondée sur plus de 8,8 millions de publications, conclut en septembre 2026 que le débat politique canadien en ligne demeure largement ancré au pays, les influenceurs canadiens représentant en moyenne 90 % de la conversation sur 41 événements d'actualité. L'influenceur américain moyen parmi les 50 premiers sur X a toutefois une portée 18 fois supérieure à celle de son équivalent canadien.",
+      "questions": [
+        "Sur quels thèmes et dans quel segment du public l'influence américaine est-elle la plus marquée?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-influence-russe-afrique",
+      "titre": "Influence russe en Afrique visant la France",
+      "resume": "Selon le quotidien sénégalais Le Soleil, une vidéo d'Emmanuel Macron manipulée par IA, lui prêtant des propos sur un soutien attendu de l'Afrique en cas de guerre, a été publiée le 17 janvier 2026 par le compte X « AES Alerte » puis amplifiée notamment par un relais prorusse ; le Quai d'Orsay l'a démentie le 20 janvier. Le 27 octobre, selon l'AFP, un rapport de Viginum a présenté le club d'experts GlobUs comme une façade d'opérations de manipulation de l'information et d'ingérence en Afrique, et Jean-Noël Barrot a annoncé demander des sanctions européennes.",
+      "questions": [
+        "L'amplification de la vidéo truquée résulte-t-elle d'une coordination entre le compte d'origine et les relais prorusses ?",
+        "Par quels relais Telegram GlobUs touche-t-il réellement son audience ?",
+        "Les sanctions européennes demandées ont-elles été adoptées ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.394Z"
+    },
+    {
+      "id": "fr-viginum-municipales-2026",
+      "titre": "Ingérences numériques aux municipales 2026",
+      "resume": "Selon le rapport public de VIGINUM présenté le 11 juin 2026 par Sébastien Lecornu, quatre ingérences numériques étrangères ont visé les municipales de mars : deux pro-russes (Storm-1516/CopyCop, attribué par le service à l'unité 29155 du GRU, et Storm-1679/Matriochka), un réseau lucratif opéré depuis le Vietnam (Hydras Danbau) et une campagne anti-LFI, Rokh Solis, liée à un acteur non étatique localisé en Israël. Ces opérations ont notamment visé Pierre-Yves Bournazel et usurpé l'identité de médias pour mettre en doute la sécurité du scrutin. Leur impact est jugé très limité.",
+      "questions": [
+        "Qui est le commanditaire de Rokh Solis, malgré une infrastructure technique très documentée ?",
+        "Les domaines imitant la presse locale laissés en dormance préparent-ils la présidentielle 2027 ?",
+        "Un acteur purement lucratif comme Hydras Danbau relève-t-il de l'ingérence étrangère au même titre qu'un État ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.401Z"
+    },
+    {
+      "id": "fr-presidentielle-2027-ingerences",
+      "titre": "Ingérences visant les candidats à la présidentielle 2027",
+      "resume": "Selon l'AFP, Raphaël Glucksmann a été informé par le SGDSN d'une attaque attribuée à Storm-1516, réputé lié au GRU, visant sa compagne Léa Salamé, et des chercheurs ont relié au réseau prorusse Matriochka de fausses vidéos imitant des médias qui visaient Gabriel Attal puis Édouard Philippe. Le parquet de Paris a ouvert des enquêtes et Viginum a confirmé deux opérations contre Gabriel Attal en août. Selon un avis sénatorial, VIGINUM a détecté dès l'été des actes de désinformation pro-russes visant plusieurs candidats déclarés.",
+      "questions": [
+        "Pourquoi VIGINUM n'a-t-il pas publié de rapport détaillé sur les opérations de l'été ?",
+        "Qui est à l'origine du piratage d'un parti et des accès massifs à un site de primaires ?",
+        "Quel effet ces campagnes produisent-elles réellement, malgré une très faible audience organique ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.466Z"
+    },
+    {
+      "id": "norad-interceptions",
+      "titre": "Interceptions d'avions russes par le NORAD",
+      "resume": "Le NORAD a annoncé deux interceptions d'avions militaires russes au début de 2026 : cinq appareils près de l'Alaska le 19 février, puis deux Tu-142 dans les zones d'identification de l'Alaska et du Canada le 4 mars, qui ont mobilisé douze appareils dont deux CF-18. Dans les deux cas, les avions sont restés dans l'espace aérien international et l'activité est qualifiée de régulière et non menaçante. Le 17 mars, le commandant du NORAD a toutefois dit au Congrès américain que ces vols avaient augmenté depuis un an, en citant des chiffres supérieurs à ceux annoncés publiquement.",
+      "questions": [
+        "Pourquoi le nombre d'interceptions déclaré au Congrès dépasse-t-il celui des annonces publiques du NORAD?",
+        "D'autres incursions ont-elles eu lieu depuis mars 2026 sans être annoncées?",
+        "Pourquoi douze appareils ont-ils été mobilisés pour deux avions de patrouille dont le vol est qualifié de régulier?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-mayotte-interceptions-kwassa",
+      "titre": "Interceptions de kwassa à Mayotte contestées",
+      "resume": "Selon une enquête de Lighthouse Reports publiée le 28 avril 2026 avec Le Monde et Der Spiegel, une vidéo filmée par un policier contredit la version officielle d'une interception de kwassa du 20 février au large de Mayotte, selon laquelle les pilotes, depuis condamnés à trois ans de prison, auraient volontairement percuté le bateau de la police. Une seconde interception, le 28 mars, a coûté la vie à une passagère.",
+      "questions": [
+        "La condamnation des deux pilotes sera-t-elle réexaminée au vu de la vidéo ?",
+        "Une enquête a-t-elle été ouverte sur la conduite des agents lors de l'interception mortelle du 28 mars ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.427Z"
+    },
+    {
+      "id": "intrusions-aeroports-2026",
+      "titre": "Intrusions dans les aéroports",
+      "resume": "En mai, un homme a franchi la clôture de l'aéroport de Vancouver et atteint le train d'atterrissage d'un avion de Porter. Rien n'indique un lien étranger; l'incident pose la question de la sûreté des aires réservées.",
+      "questions": [
+        "Quelles mesures de sûreté ont suivi?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T22:23:29.427Z",
+      "veille": "canada"
+    },
+    {
+      "id": "arctique-investissements-chinois",
+      "titre": "Investissements et surveillance chinois dans l'Arctique",
+      "resume": "En mars, des experts et un député conservateur ont pressé Ottawa d'aider les communautés inuites face aux investissements et à la surveillance chinois; le SCRS range la Chine parmi les principales menaces pour la sécurité du Canada.",
+      "questions": [
+        "Ottawa adoptera-t-il des mesures précises pour les investissements étrangers dans le Nord?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T22:08:33.153Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-vinatier",
+      "titre": "Libération de Laurent Vinatier par la Russie",
+      "resume": "Le 8 janvier 2026, la Russie a libéré le chercheur français Laurent Vinatier, gracié par Vladimir Poutine ; selon le FSB cité par l'AFP, il a été « échangé » contre le basketteur russe Daniil Kasatkin, détenu en France depuis juin 2025 à la demande de la justice américaine. Le Quai d'Orsay a confirmé son retour en France.",
+      "questions": [
+        "Paris reconnaît-il l'échange avancé par le FSB, alors que la procédure visant Daniil Kasatkin relevait d'une demande d'extradition américaine ?",
+        "La procédure d'espionnage ouverte en Russie en 2025 visait-elle à peser sur la négociation ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.390Z"
+    },
+    {
+      "id": "logiciels-espions-repression-numerique",
+      "titre": "Logiciels espions et répression numérique",
+      "resume": "En mars 2026, le directeur du Citizen Lab, Ron Deibert, a prévenu un sous-comité des Communes que le Canada devait s'attendre à une forte hausse de la répression transnationale numérique et qu'il avait très peu donné suite à son engagement de 2023 d'encadrer les logiciels espions mercenaires. En octobre, le Citizen Lab a révélé qu'une société israélienne servait de canal de diffusion de logiciels espions « zéro clic » au moyen de publicités ciblées, affichées sur plus de 120 000 sites dont cbc.ca. Le rapport ne nomme aucun client ni aucune victime au Canada.",
+      "questions": [
+        "Des personnes au Canada ont-elles été ciblées par ce canal publicitaire, et pour le compte de quels clients?",
+        "Ottawa donnera-t-il suite à son engagement de 2023 d'encadrer les logiciels espions mercenaires?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-martin-ryan-azerbaidjan",
+      "titre": "Martin Ryan : condamnation confirmée en appel",
+      "resume": "Selon Le Petit Journal, la justice azerbaïdjanaise a confirmé le 29 juillet 2026 en appel la peine de dix ans de prison de Martin Ryan pour espionnage au profit de la France. Le Quai d'Orsay a qualifié la condamnation d'arbitraire, exigé sa libération et déconseille à ses ressortissants de se rendre en Azerbaïdjan.",
+      "questions": [
+        "Les lourdes condamnations successives d'hommes d'affaires français à Bakou relèvent-elles d'une logique de pression bilatérale ?",
+        "Quels éléments l'accusation a-t-elle produits en appel ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.464Z"
+    },
+    {
+      "id": "fr-detenus-azerbaidjan",
+      "titre": "Martin Ryan, condamné puis gracié en Azerbaïdjan",
+      "resume": "Selon Le Petit Journal, la justice azerbaïdjanaise a condamné le 16 mars 2026 l'homme d'affaires français Martin Ryan, détenu depuis décembre 2023, à dix ans de prison pour espionnage au profit de la France, peine confirmée en appel le 29 juillet ; Paris rejette les accusations et dénonce l'arbitraire. Selon Sud Radio, Bakou l'a gracié le 23 septembre, peu après la levée des sanctions européennes visant Alicher Ousmanov, demandée par Paris. Un diplomate non nommé évoque un arrangement de libération ; le Quai d'Orsay parle d'un geste humanitaire.",
+      "questions": [
+        "La levée des sanctions contre Alicher Ousmanov faisait-elle partie d'un arrangement de libération ?",
+        "Quel était l'objet de la présence rapportée du chef de la DGSE à Bakou ?",
+        "Sur quels éléments reposait l'accusation détaillée de recrutement par la DGSE ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.411Z"
+    },
+    {
+      "id": "fr-mayotte-comores",
+      "titre": "Mayotte et Comores : tensions autour de la COI",
+      "resume": "Selon Mayotte Hebdo, la visite de la ministre déléguée Éléonore Caroit à Moroni le 8 juin 2026, lors d'une réunion de la Commission de l'océan Indien, a été vivement critiquée par des collectifs mahorais qui lui reprochent de ne pas avoir répondu fermement aux propos d'un ministre comorien. Le 10 juin, des militantes ont réoccupé les services de l'immigration de la préfecture à Mamoudzou.",
+      "questions": [
+        "Quels propos le ministre comorien a-t-il tenus lors de cette réunion ?",
+        "Le gouvernement a-t-il précisé sa position après la mobilisation des collectifs mahorais ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.442Z"
+    },
+    {
+      "id": "milice-antigouvernementale-quebec",
+      "titre": "Milice antigouvernementale de Québec",
+      "resume": "Des documents descellés en janvier décrivent le plan allégué d'un groupe paramilitaire de la région de Québec, comptant des militaires, et révèlent l'existence d'un informateur; une ordonnance de non-publication a suivi. Le procès devant jury de trois accusés d'infractions liées au terrorisme est fixé à septembre 2027. Un militaire de Valcartier arrêté dans la même opération a plaidé coupable de vente de matériel prohibé.",
+      "questions": [
+        "Quelle est l'étendue des liens du groupe avec les Forces armées?",
+        "Pourquoi la non-publication a-t-elle été ordonnée sans motifs publics?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.497Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-guerre-iran-2026",
+      "titre": "Militaires français visés pendant la guerre d'Iran",
+      "resume": "Selon Wikipédia, la base navale française d'Abou Dhabi a été touchée par un projectile le 1er mars 2026, au lendemain du début de la guerre d'Iran, et la France a abattu des drones iraniens. Le 12 mars, selon le ministère des Armées, l'adjudant-chef Arnaud Frion a été tué près d'Erbil par un drone de fabrication iranienne ; une revendication d'Ashab al-Kahf est rapportée, sans attribution officielle française. Le 18 avril, le sergent-chef Florian Montorio, casque bleu, a été tué au Liban dans une attaque que la FINUL et Emmanuel Macron imputent probablement au Hezbollah, qui dément.",
+      "questions": [
+        "Qui a tiré le drone d'Erbil, au-delà de l'origine iranienne de l'appareil ?",
+        "À quelle date exacte et avec combien de blessés l'attaque d'Erbil a-t-elle eu lieu, les sources divergeant ?",
+        "L'enquête libanaise sur la mort du sergent-chef Montorio a-t-elle abouti ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.408Z"
+    },
+    {
+      "id": "registre-influence-etrangere",
+      "titre": "Mise en œuvre du registre d'influence étrangère",
+      "resume": "Le registre fédéral d'influence étrangère est entré en vigueur le 4 août 2026, plus de deux ans après l'adoption de la loi, avec Anton Boegman comme premier commissaire. En septembre, la seule déclaration impliquant un commettant chinois a disparu du site public, et le commissaire a confirmé une atteinte à la vie privée touchant l'expert Charles Burton. Le 6 octobre, après l'échéance fixée pour les arrangements existants, il a dit avoir reçu une trentaine de déclarations, alors que Sécurité publique estimait à 2 422 le nombre d'assujettis; aucun avis de violation n'avait été émis.",
+      "questions": [
+        "Pourquoi si peu de déclarations ont-elles été reçues par rapport aux 2 422 assujettis estimés?",
+        "Le commissaire ouvrira-t-il des enquêtes ou émettra-t-il des avis de violation?",
+        "Pourquoi le montant versé par un média d'État chinois a-t-il disparu de la déclaration republiée?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "canadien-tue-liban-2026",
+      "titre": "Mort d'un Canadien de Windsor au Liban",
+      "resume": "Hassan Haidar, citoyen canadien de Windsor, a été tué au Liban le 10 avril 2026; sa famille affirme qu'un drone israélien l'a atteint, selon La Presse Canadienne. Le 21 avril, la ministre Anita Anand a dit avoir demandé à Israël une enquête complète et transparente.",
+      "questions": [
+        "Israël a-t-il ouvert l'enquête demandée, et quelle version des faits donne-t-il?",
+        "Dans quelles circonstances M. Haidar a-t-il été tué?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "arctique-navires-chinois",
+      "titre": "Navires de recherche chinois dans l'Arctique",
+      "resume": "À l'été 2026, les brise-glaces de recherche chinois Xue Long et Xue Long 2 sont montés vers l'Arctique sous la surveillance de moyens américains et canadiens, dont un avion de l'Aviation royale canadienne et le NCSM Max Bernays. Selon gCaptain, le Xue Long a déployé plus de 30 bouées au nord du 82e parallèle; d'après la Revue navale canadienne, les navires se trouvaient hors de la zone économique exclusive canadienne. En septembre, la Garde côtière américaine a dénombré quatre navires de recherche chinois au large de l'Alaska en 2026 et y voit une préoccupation de sécurité.",
+      "questions": [
+        "Que mesurent les bouées laissées en place par le Xue Long, et à qui ces données serviront-elles?",
+        "Quel rôle exact les navires, les aéronefs et les forces spéciales du Canada ont-ils joué dans cette surveillance?",
+        "Ottawa publiera-t-il un bilan de la saison 2026, comme l'ont fait les autorités américaines?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-caledonie-chine",
+      "titre": "Nickel calédonien : opposition prêtée à Macron",
+      "resume": "Selon une délégation transpartisane calédonienne citée par La Dépêche de Nouvelle-Calédonie début septembre 2026, Emmanuel Macron aurait exprimé son opposition à une reprise de l'usine de Koniambo par des investisseurs chinois, ainsi qu'à un montage d'investisseurs moyen-orientaux recourant à des ingénieurs chinois pour l'usine de Goro. Aucune déclaration officielle n'est citée.",
+      "questions": [
+        "L'Élysée confirme-t-il cette position ?",
+        "Sur quels motifs reposerait cette opposition ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.469Z"
+    },
+    {
+      "id": "fr-ncl-provinciales-2026",
+      "titre": "Nouvelle-Calédonie et réseau anti-ingérences électorales",
+      "resume": "Selon Les Nouvelles Calédoniennes et Outremers360, Sébastien Lecornu a fait de la lutte contre les ingérences numériques étrangères une priorité en vue des provinciales calédoniennes, et la Nouvelle-Calédonie a rejoint le Réseau de coordination et de protection des élections piloté par le SGDSN. Les articles situent toutefois le scrutin « en juillet », alors qu'il était fixé au 28 juin.",
+      "questions": [
+        "Les bulletins publics annoncés après chaque évaluation de la menace ont-ils effectivement été publiés ?",
+        "Des ingérences ont-elles été détectées lors des provinciales du 28 juin ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.445Z"
+    },
+    {
+      "id": "operation-reassurance-lettonie",
+      "titre": "Opération REASSURANCE en Lettonie",
+      "resume": "Le commandant de la Force opérationnelle Lettonie a été accusé d'une infraction militaire et relevé en mars. En août, un drone chargé d'explosifs venu du Bélarus a été abattu par l'OTAN; en novembre, le commandant canadien de la brigade a évoqué espionnage, incendies criminels et alertes aux drones parmi les tactiques hybrides.",
+      "questions": [
+        "Des actes d'espionnage ou de sabotage ont-ils visé directement les militaires canadiens?",
+        "Quelle est la nature de l'infraction reprochée à l'ancien commandant?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.506Z",
+      "veille": "canada"
+    },
+    {
+      "id": "operations-americaines-hemisphere",
+      "titre": "Opérations américaines dans l'hémisphère",
+      "resume": "Après la capture de Nicolás Maduro par les forces américaines en janvier, Ottawa a invoqué le droit international sans juger l'opération. Selon un reportage de CBC qui n'a pas pu être vérifié, le Canada conditionnerait son renseignement sur les bateaux suspects pour qu'il ne serve pas aux frappes américaines dans les Caraïbes.",
+      "questions": [
+        "Le Canada restreint-il réellement le partage de renseignement lié aux frappes américaines?",
+        "Quelle présence diplomatique le Canada maintiendra-t-il au Venezuela?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.493Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-guyane-orpaillage-bresil",
+      "titre": "Orpaillage illégal et factions brésiliennes en Guyane",
+      "resume": "Selon Info.fr, l'opération AÏMARA, menée du 6 au 12 avril 2026 sur le Maroni et l'Oyapock, a mobilisé plus de 82 membres des forces de l'ordre selon la préfecture et abouti à la reconduite de quinze Brésiliens en situation irrégulière ; l'article rappelle que quatre factions armées brésiliennes liées au narcotrafic sont actives en Guyane. En octobre, selon Sociedade Militar citant France-Guyane, les gendarmes de Camopi ont détruit trois barges d'orpaillage illégal près de Saint-Georges-de-l'Oyapock.",
+      "questions": [
+        "Pourquoi les saisies d'or auraient-elles été divisées par vingt malgré la poursuite des opérations ?",
+        "Quels liens unissent les factions criminelles brésiliennes et l'orpaillage illégal sur l'Oyapock ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.423Z"
+    },
+    {
+      "id": "fr-otages-iran",
+      "titre": "Otages français en Iran et dossier Esfandiari",
+      "resume": "Le 26 février 2026, la justice française a condamné l'Iranienne Mahdieh Esfandiari pour apologie du terrorisme, selon franceinfo ; Téhéran souhaitait l'échanger contre Cécile Kohler et Jacques Paris, condamnés pour espionnage en Iran. Le 7 avril, les deux Français ont quitté Téhéran en convoi diplomatique vers Bakou, le jour même où l'assignation à résidence de Mahdieh Esfandiari était levée ; elle est rentrée en Iran le 15 avril. Paris dément tout échange, que Téhéran présente comme tel.",
+      "questions": [
+        "Quelle peine exacte a été prononcée contre Mahdieh Esfandiari, les formulations divergeant ?",
+        "Comment s'explique la simultanéité de la sortie des Français et de la levée de son assignation si les dossiers sont sans lien ?",
+        "Dans quelles conditions la sortie terrestre vers l'Azerbaïdjan a-t-elle été organisée en pleine guerre ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.406Z"
+    },
+    {
+      "id": "pakistan-repression-transnationale",
+      "titre": "Pakistan et critiques en exil",
+      "resume": "Un tribunal d'Islamabad a condamné par contumace des critiques en exil, dont un commentateur qui vivrait au Canada. En juillet, la ministre Anand a renforcé la coopération de sécurité avec le Pakistan sans évoquer publiquement l'ingérence; en octobre, une pétition déposée aux Communes allègue le harcèlement de familles de Canadiens par des agences pakistanaises.",
+      "questions": [
+        "Des personnes établies au Canada sont-elles visées par des mesures pakistanaises de répression?",
+        "Ottawa a-t-il soulevé ces allégations auprès d'Islamabad?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.473Z",
+      "veille": "canada"
+    },
+    {
+      "id": "pannes-asfc",
+      "titre": "Panne des bornes d'inspection de l'ASFC",
+      "resume": "Le 18 mai 2026, une panne a touché les bornes d'inspection primaire et d'autres systèmes de l'Agence des services frontaliers du Canada dans 11 aéroports internationaux, tandis qu'une panne distincte touchait ses systèmes commerciaux, selon CTV News. L'Agence a dit enquêter encore sur la cause tout en affirmant n'avoir aucune indication de cyberattaque.",
+      "questions": [
+        "Quelle est la cause des deux pannes, aucune explication finale n'ayant été retrouvée?",
+        "Pourquoi ces pannes se répètent-elles, celle-ci étant au moins la cinquième depuis avril 2025?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "pannes-novembre-2026",
+      "titre": "Pannes technologiques de novembre",
+      "resume": "Une panne mondiale de Microsoft 365 a touché le gouvernement fédéral et des hôpitaux à partir du 12 novembre, puis une panne du contrôle aérien américain a entraîné l'annulation de centaines de vols canadiens le 13. Aucune cause malveillante n'est rapportée.",
+      "questions": [
+        "Les causes techniques seront-elles publiées?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.528Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-publications-anssi-2026",
+      "titre": "Panorama de la cybermenace 2025 de l'ANSSI",
+      "resume": "Le 11 mars 2026, le CERT-FR (ANSSI) a publié son Panorama de la cybermenace 2025. Selon l'agence, des groupes liés aux services de renseignement russes et chinois restent fréquemment observés, tandis que les rançongiciels reculent au profit de l'exfiltration de données et que la frontière entre acteurs étatiques et cybercriminels se brouille.",
+      "questions": [
+        "Comment fiabiliser l'attribution lorsque des groupes non réputés étatiques détournent des outils légitimes ?",
+        "Quelles entités diplomatiques ont été visées par les acteurs étatiques mentionnés ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.410Z"
+    },
+    {
+      "id": "fr-gironde-parabole-chine",
+      "titre": "Parabole de Gironde et espionnage satellitaire",
+      "resume": "Selon le parquet de Paris cité par Reuters, la police a été alertée le 30 janvier 2026 que deux ressortissants chinois menaient des opérations d'interception satellitaire depuis une location Airbnb à Camblanes-et-Meynac, où des voisins avaient signalé une parabole d'environ deux mètres. Quatre personnes, dont ces deux Chinois, ont été mises en examen et deux placées en détention provisoire ; le parquet les soupçonne d'avoir cherché à capter des données de Starlink et d'entités d'importance vitale pour la Chine. Pékin dénonce une calomnie ; selon certains médias, une simple curiosité technologique a été invoquée.",
+      "questions": [
+        "Une installation aussi visible est-elle compatible avec une opération de renseignement organisée ?",
+        "Quelles données militaires pouvaient être captées via Starlink, peu utilisé par les armées françaises ?",
+        "Qui a avancé l'explication de la curiosité technologique, les fournisseurs du matériel ou les suspects eux-mêmes ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.400Z"
+    },
+    {
+      "id": "fr-pegasus",
+      "titre": "Pegasus et téléphones de ministres français",
+      "resume": "Selon un consortium mené par Forbidden Stories et incluant Le Monde, relayé par l'AFP le 16 juillet 2026, des traces de compromission par Pegasus attribuées au Maroc ont été retrouvées sur les téléphones de ministres en poste entre 2019 et 2021, dont Sébastien Lecornu, aujourd'hui Premier ministre, et Florence Parly ; le Maroc rejette ces accusations. L'enquête indique aussi que la France avait envisagé d'acheter Pegasus avant d'y renoncer fin 2020.",
+      "questions": [
+        "Pourquoi aucune réaction officielle immédiate n'a-t-elle suivi, alors que le Premier ministre figure parmi les cibles ?",
+        "Quelles données ont pu être compromises sur ces téléphones ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.458Z"
+    },
+    {
+      "id": "fr-flotte-fantome-russe",
+      "titre": "Pétrolier DF Peak contrôlé au sud de La Réunion",
+      "resume": "Selon l'AFP, la Marine nationale a contrôlé le 12 octobre 2026, à environ 500 milles nautiques au sud de La Réunion, le pétrolier DF Peak (ex-Kaliningrad), sous pavillon béninois jugé irrégulier, et le parquet de Saint-Denis a ouvert une enquête pour « non-justification de la nationalité ». L'ambassade de Russie a dénoncé un acte de piraterie.",
+      "questions": [
+        "Que faisait ce pétrolier sanctionné, sans signal AIS, dans le sud de l'océan Indien ?",
+        "Quels « risques spécifiques » justifient les zones d'exclusion évoquées ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.470Z"
+    },
+    {
+      "id": "echec-au-crime-p3",
+      "titre": "Piratage de la plateforme P3 d'Échec au crime",
+      "resume": "La plateforme américaine P3, qui reçoit les signalements anonymes des programmes Échec au crime au Canada, a été piratée : l'affaire a été révélée en mars 2026 et, d'après Global News, les données ont été copiées à partir de novembre 2025. Les pirates présumés ont publié un message hostile à la police et aux gouvernements. Le 21 octobre, Échec au crime Toronto a suspendu la réception de signalements en apprenant que 176 859 d'entre eux figuraient dans les données volées; CBC évalue à plus de 1,5 million les signalements canadiens touchés, et le commissaire fédéral à la vie privée enquête.",
+      "questions": [
+        "Des auteurs de signalements anonymes peuvent-ils être identifiés à partir des données volées?",
+        "Qui sont les auteurs du piratage, et que cherchaient-ils?",
+        "Pourquoi les programmes canadiens n'ont-ils été informés que par étapes, des mois après la révélation de la fuite?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "postes-police-chinois",
+      "titre": "Postes de liaison présumés de la police chinoise",
+      "resume": "Dans un rapport du 6 novembre 2026, l'ONG Safeguard Defenders soutient qu'au moins 18 associations chinoises d'outre-mer au Canada font office de postes de liaison de la police chinoise, contre cinq recensés en 2022, rapporte CTV News. Le ministre de la Sécurité publique souligne que ces allégations n'ont pas fait l'objet d'une enquête, et l'ambassade de Chine nie l'existence de tels postes.",
+      "questions": [
+        "Les autorités canadiennes enquêteront-elles sur les associations visées par le rapport?",
+        "Les allégations, fondées sur des déclarations de sources chinoises, peuvent-elles être corroborées par des activités observées au Canada?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-postes-police-chinois",
+      "titre": "Postes de police chinois présumés en France",
+      "resume": "Selon une enquête du Monde du 18 juin 2026, relayée notamment par Vision Times et ANI, le contre-espionnage français aurait démantelé neuf structures soupçonnées d'être des postes de police chinois clandestins, surtout en région parisienne, et expulsé deux des trois organisateurs présumés, le troisième contestant son éloignement. Pékin affirme qu'il s'agit de centres de services administratifs pour ses ressortissants.",
+      "questions": [
+        "Pourquoi ni le démantèlement ni les expulsions n'ont-ils fait l'objet d'une communication officielle ?",
+        "Quelles activités précises étaient reprochées à ces structures ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.447Z"
+    },
+    {
+      "id": "arctique-posture",
+      "titre": "Posture militaire et diplomatique dans l'Arctique",
+      "resume": "En février 2026, la Défense nationale a annoncé un programme renforcé d'opérations arctiques en invoquant des adversaires qu'elle ne nomme pas. En mars, la ministre Anita Anand a appelé l'OTAN à regarder « vers le nord » face à des infrastructures russes qui progressent près du cercle arctique. Le même mois, la porte-parole de la diplomatie russe, Maria Zakharova, a déclaré que la politique occidentale dans le Grand Nord augmentait le risque d'« incidents involontaires »; Affaires mondiales Canada a répondu surveiller la situation.",
+      "questions": [
+        "Quels adversaires et quelles infrastructures précises motivent le renforcement des opérations arctiques?",
+        "Existe-t-il des canaux de désescalade entre Ottawa et Moscou en cas d'incident dans l'Arctique?",
+        "Quels effectifs et quel calendrier le Canada consacre-t-il à ces opérations?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "annexion-coercition-etats-unis",
+      "titre": "Pressions américaines et discours d'annexion",
+      "resume": "Ce dossier suit les pressions de l'administration Trump sur le Canada : menaces tarifaires liées à la Chine puis aux feux de forêt, menace de bloquer le pont Gordie-Howe, allusion à un « 51e État ». En janvier 2026, le Globe and Mail a révélé que l'armée avait modélisé une invasion américaine hypothétique, jugée improbable. En août, Mark Carney a suspendu les négociations commerciales en invoquant la souveraineté et la protection du français, et des tarifs de 50 % sont entrés en vigueur. En septembre, il a dit que son gouvernement s'était préparé au risque d'une action militaire américaine.",
+      "questions": [
+        "Les négociations commerciales suspendues en août reprendront-elles, et à quelles conditions?",
+        "Quelle contrepartie le Canada a-t-il obtenue en cédant à un fonds américain la moitié des profits de péage du pont Gordie-Howe?",
+        "Quelle suite a été donnée à la menace d'un tarif de 100 % en cas d'accord avec la Chine?",
+        "En quoi consiste concrètement la préparation canadienne au risque d'une action militaire américaine?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-ouighours-pressions-2026",
+      "titre": "Pressions sur la diaspora ouïghoure à Paris",
+      "resume": "Selon Human Rights Watch, un homme se présentant comme un responsable d'Urumqi a appelé en janvier 2026 deux militants ouïghours de Paris : Abdurahman Tohti, pour lui demander de surveiller la diaspora, puis Mirkamel Tourghoun, pour qu'il cesse ses activités ; ce dernier a enregistré et diffusé l'appel. Selon Dilnur Reyhan, citée par HRW, l'ambassade de Chine aurait aussi pressé des élus locaux de boycotter l'inauguration du siège parisien de l'Institut ouïghour d'Europe, le 20 janvier. Ni l'ambassade ni le ministère de l'Intérieur n'ont répondu à HRW.",
+      "questions": [
+        "L'identité et le rattachement de l'appelant ont-ils été établis ?",
+        "Quels élus auraient été approchés par l'ambassade, et le confirment-ils ?",
+        "Une enquête a-t-elle été ouverte en France après la diffusion de l'enregistrement ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.392Z"
+    },
+    {
+      "id": "fr-cercueils-moldaves",
+      "titre": "Procès des Moldaves pour les tags de cercueils",
+      "resume": "Selon Ground News, des hommes nés en Moldavie devaient être jugés à partir du 23 février 2026 par le tribunal correctionnel de Paris pour les pochoirs de cercueils « Soldats français en Ukraine » apparus en juin 2024, poursuivis pour dégradation et entreprise de démoralisation de l'armée. Selon UNN citant actu.fr, sept ressortissants moldaves ont été condamnés le 17 avril à des amendes et tous relaxés de la démoralisation de l'armée, pour laquelle le parquet requérait de la prison. Les sources divergent sur le nombre de prévenus, quatre ou sept.",
+      "questions": [
+        "Combien de prévenus ont réellement comparu ?",
+        "Le parquet a-t-il fait appel des relaxes ?",
+        "Le commanditaire présumé, désigné sous deux noms, est-il le même que dans l'affaire des étoiles de David de 2023 ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.405Z"
+    },
+    {
+      "id": "fr-opposants-algeriens",
+      "titre": "Projet d'assassinat visant Hichem Aboud",
+      "resume": "Selon Le Monde, relayé par Le360 et North Africa Post, quatre hommes ont été mis en examen et écroués en mai 2026 pour tentative de meurtre en relation avec une entreprise terroriste visant l'opposant algérien Hichem Aboud à Roubaix, l'expédition de février 2025 ayant échoué en l'absence de la cible. Selon Le Monde, des documents judiciaires évoquent des réseaux criminels activés au service d'une puissance étrangère, sans que le commanditaire soit établi.",
+      "questions": [
+        "Qui a commandité l'expédition, alors que des relais marocains présentent l'implication d'Alger comme acquise ?",
+        "Comment ce projet a-t-il été découvert au détour d'une enquête sur un vol de musée ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.432Z"
+    },
+    {
+      "id": "repression-transnationale-russie",
+      "titre": "Projet de loi C-219 sur la répression transnationale",
+      "resume": "Le 28 mai 2026, l'opposant russe Vladimir Kara-Murza et le financier Bill Browder ont témoigné devant le comité des affaires étrangères des Communes en faveur du projet de loi C-219, qui définirait pour la première fois la répression transnationale en droit canadien et la rendrait passible de sanctions. Le gouvernement dit en appuyer l'objectif mais réclame des amendements.",
+      "questions": [
+        "Quels amendements le gouvernement réclame-t-il, et le projet de loi sera-t-il adopté?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "nouveaux-pouvoirs-2026",
+      "titre": "Projet de loi C-22 sur l'accès légal",
+      "resume": "Déposé le 12 mars 2026, le projet de loi C-22 sur l'accès légal a été adopté par les Communes le 18 juin et renvoyé à un comité sénatorial le 22 octobre. Le 2 novembre, le commissaire au renseignement a expliqué aux sénateurs que le texte lui confierait l'examen des ordonnances ministérielles visant les fournisseurs de services électroniques, tout en relevant qu'il n'impose pas explicitement de test de proportionnalité.",
+      "questions": [
+        "Le Sénat amendera-t-il le projet de loi pour y inscrire un test de proportionnalité?",
+        "Les ordonnances visant les fournisseurs resteront-elles confidentielles?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "protocole-grc-msp",
+      "titre": "Protocole entre la GRC et la police chinoise",
+      "resume": "Le 15 janvier 2026, en marge de la visite de Mark Carney à Pékin, la GRC a signé un protocole d'entente sur la lutte contre la criminalité avec le ministère chinois de la Sécurité publique, qu'elle présente comme le renouvellement d'un cadre ancien et non contraignant. Contrairement à d'autres protocoles du voyage, son texte n'a pas été publié. En mai, la GRC a indiqué qu'elle ne le divulguerait pas sans le consentement de la partie chinoise, alors que conservateurs et néo-démocrates en réclament le texte intégral.",
+      "questions": [
+        "Que prévoit le protocole, dont le texte n'a pas été rendu public?",
+        "Le Parlement obtiendra-t-il le texte ou des séances d'information à son sujet?",
+        "Pourquoi un document présenté comme non contraignant et de routine reste-t-il confidentiel?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "sante-ontario-oms-rancongiciel",
+      "titre": "Rançongiciel chez Ontario Medical Supply",
+      "resume": "Selon des documents internes cités par Global News en mars 2026, la cyberattaque de 2025 contre Ontario Medical Supply, fournisseur de l'agence Santé à domicile Ontario, était un rançongiciel touchant jusqu'à 200 000 patients, et une rançon a été versée. Le ministère de la Santé avait affirmé qu'aucune rançon n'avait été exigée du gouvernement ni payée par lui.",
+      "questions": [
+        "Qui a versé la rançon, et quel groupe est à l'origine de l'attaque?",
+        "Pourquoi le public a-t-il été informé environ un mois après le cabinet de la ministre?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "rapport-scrs-2025",
+      "titre": "Rapport public 2025 du SCRS et mises en garde",
+      "resume": "Rendu public le 1er mai 2026, le rapport public 2025 du SCRS désigne la Chine, l'Inde, la Russie, l'Iran et le Pakistan comme principaux auteurs d'ingérence étrangère et d'espionnage contre le Canada, sans mentionner les États-Unis. Le Service dit avoir contribué à contrer le recrutement, par la Chine, de militaires canadiens actuels et anciens pour former des aviateurs chinois. Le 3 juin, le SCRS et ses homologues de quatre pays alliés ont averti que le renseignement militaire chinois recrute au moyen de fausses offres d'emploi, accusations que Pékin dit « entièrement fabriquées ».",
+      "questions": [
+        "Quels cas concrets fondent la désignation du Pakistan et les opérations que le Service dit avoir contrées?",
+        "Comment le SCRS évalue-t-il l'influence américaine, que son rapport ne mentionne pas?",
+        "Des Canadiens ont-ils été recrutés au moyen de fausses offres d'emploi, et combien?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "rapprochement-canada-golfe",
+      "titre": "Rapprochement avec les monarchies du Golfe",
+      "resume": "Danielle Smith a confirmé un vol privé proposé par le gouvernement saoudien en 2025. Mark Carney s'est rendu en Arabie saoudite en juillet (treize accords, dont sécurité et IA), puis le Canada et les Émirats ont annoncé des négociations sur un traité d'extradition, ce qui inquiète des ONG.",
+      "questions": [
+        "Le traité d'extradition avec les Émirats comportera-t-il des garanties contre la répression transnationale?",
+        "Les accords de sécurité conclus avec Riyad seront-ils rendus publics?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.503Z",
+      "veille": "canada"
+    },
+    {
+      "id": "rapprochement-canada-chine",
+      "titre": "Rapprochement Canada-Chine",
+      "resume": "Le 16 janvier 2026 à Pékin, Mark Carney et Xi Jinping ont annoncé un « nouveau partenariat stratégique » et un accord préliminaire : jusqu'à 49 000 véhicules électriques chinois par an à tarif réduit, contre une baisse attendue des droits chinois sur le canola. Le 29 mai, le ministre chinois des Affaires étrangères, Wang Yi, a effectué à Ottawa la première visite bilatérale de ce niveau depuis 2016, sans période de questions pour la presse. Selon le compte rendu chinois, les deux pays ont convenu de relancer un dialogue de haut niveau sur la sécurité nationale et l'état de droit.",
+      "questions": [
+        "Que recouvre le dialogue sur la sécurité nationale et l'état de droit, connu seulement par le compte rendu chinois?",
+        "Les allègements chinois seront-ils maintenus au-delà de la fin de 2026?",
+        "L'ingérence et la répression transnationale sont-elles abordées dans ces échanges?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "rapprochement-canada-inde",
+      "titre": "Rapprochement Canada-Inde et questions de sécurité",
+      "resume": "Ottawa et New Delhi relancent leur relation : visite du conseiller indien à la sécurité nationale, voyage de Mark Carney en Inde, accord commercial visé d'ici la fin de 2026 et visite de Narendra Modi annoncée pour les 11 et 12 décembre. Les messages sur l'ingérence indienne divergent : un haut fonctionnaire s'est dit confiant que l'activité violente avait cessé, le SCRS a dit son évaluation inchangée, et le commissaire de la GRC a dit ne voir aucun lien étranger actuel, propos ensuite nuancés par la GRC. En mai, le haut-commissaire indien a qualifié les allégations de « fantaisie ».",
+      "questions": [
+        "Sur quelle évaluation s'appuyait le haut fonctionnaire qui a affirmé que l'activité violente attribuée à des agents indiens avait cessé?",
+        "Que prévoient le plan de travail commun et les agents de liaison convenus en février?",
+        "L'affaire Nijjar et la répression transnationale seront-elles abordées lors de la visite de M. Modi en décembre?",
+        "L'accord de partenariat économique sera-t-il conclu d'ici la fin de 2026?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "alberta-referendum-ingerence",
+      "titre": "Référendum albertain et influence étrangère",
+      "resume": "Le référendum albertain d'octobre 2026 sur l'appartenance au Canada a suscité des mois d'allégations d'influence étrangère : contacts de séparatistes avec le département d'État américain et des stratèges républicains, selon la presse, réseaux inauthentiques générés par IA, contenus que des chercheurs attribuent surtout à des acteurs liés à la Russie, sans confirmation publique d'une agence fédérale. Washington parle de contacts courants avec la société civile. Selon Élections Alberta, 74,9 % des votants ont choisi de rester dans le Canada; aucun bilan officiel de l'ingérence n'a été repéré.",
+      "questions": [
+        "Qui exploite et finance les réseaux de chaînes YouTube et de sites inauthentiques favorables à la sécession ou à l'annexion?",
+        "Comment la liste électorale albertaine est-elle parvenue au Centurion Project, et l'enquête mènera-t-elle à des accusations?",
+        "Les autorités fédérales ou albertaines publieront-elles un bilan de l'influence étrangère pendant la campagne référendaire?",
+        "Quelle suite le commissaire à la transparence en matière d'influence étrangère donnera-t-il à sa démarche auprès de l'Alberta Prosperity Project?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "relations-canada-russie",
+      "titre": "Relations Canada-Russie",
+      "resume": "Le 18 février 2026, selon l'agence Anadolu, la porte-parole de la diplomatie russe Maria Zakharova a averti que la voie suivie par Ottawa pourrait avoir des « conséquences irréversibles » pour la relation bilatérale, en réaction à des appels à s'en prendre aux biens diplomatiques russes et au projet de loi S-278 sur la confiscation d'avoirs d'États étrangers. Elle a promis une réponse pouvant être réciproque, symétrique ou asymétrique.",
+      "questions": [
+        "Quelle forme prendrait la riposte « asymétrique » évoquée par Moscou?",
+        "Le projet de loi S-278 sera-t-il adopté?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "surveillance-renseignement-defense",
+      "titre": "Renseignement de sources ouvertes de la Défense",
+      "resume": "L'OSSNR relève des lacunes dans le renseignement de sources ouvertes de la Défense nationale, dont quinze fournisseurs non évalués.",
+      "questions": [
+        "La Défense donnera-t-elle suite aux recommandations?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.526Z",
+      "veille": "canada"
+    },
+    {
+      "id": "renseignement-etranger-canada",
+      "titre": "Renseignement étranger et cyberopérations du Canada",
+      "resume": "Le 11 juin 2026, le Comité des parlementaires sur la sécurité nationale et le renseignement a lancé un examen du cadre canadien de collecte de renseignement étranger, sans en préciser la portée ni l'échéancier. Fin juin, le rapport annuel du Centre de la sécurité des télécommunications a indiqué que 4 des 13 autorisations ministérielles de l'exercice portaient sur des cyberopérations étrangères, et a décrit des actions contre dix groupes de rançongiciel, des courtiers en précurseurs de fentanyl et un groupe extrémiste violent.",
+      "questions": [
+        "Quels organismes l'examen du comité couvrira-t-il, et quand ses conclusions seront-elles connues?",
+        "Dans quels pays le CST a-t-il mené ses cyberopérations, et avec quels effets?",
+        "L'examen débouchera-t-il sur un élargissement des capacités canadiennes de renseignement à l'étranger?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "iran-repression-transnationale-2026",
+      "titre": "Répression transnationale attribuée à l'Iran",
+      "resume": "Ottawa attribue à l'Iran des menaces contre des personnes liées au Canada. En janvier 2026, il a annoncé la mort d'un citoyen canadien « aux mains des autorités iraniennes », sans détail, puis a sanctionné sept personnes liées au réseau criminel Zindashti et aux services iraniens. En mars, le SCRS a dit avoir perturbé des menaces potentiellement mortelles, et des médias ont rapporté un complot allégué contre l'ex-députée Goldie Ghamari, sans confirmation canadienne. En avril, un haut responsable fédéral a fait état d'une hausse de la répression visant la diaspora, sans chiffre ni cas précis.",
+      "questions": [
+        "Qui était le citoyen canadien mort en Iran, et dans quelles circonstances est-il décédé?",
+        "Quelles menaces mortelles le SCRS dit-il avoir perturbées, et pourquoi aucune accusation n'est-elle connue?",
+        "Les documents judiciaires américains étayent-ils le complot allégué contre Goldie Ghamari?",
+        "Sur quelles données repose la hausse annoncée de la répression visant la diaspora iranienne?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "repression-transnationale-rpc",
+      "titre": "Répression transnationale attribuée à la Chine",
+      "resume": "En février 2026, un rapport de l'Institut montréalais d'études sur la sécurité mondiale a désigné la Chine comme l'un des principaux acteurs de la répression transnationale au Canada et mis en garde contre toute naïveté au moment où Ottawa resserre ses liens avec Pékin. Le 20 avril, des témoins tibétains, ouïghours et du Falun Gong ont décrit à un sous-comité des Communes des menaces de mort, des cyberattaques et des pressions sur leurs proches, qu'ils attribuent à la Chine. Aucune suite policière à ces témoignages n'est connue.",
+      "questions": [
+        "Les faits rapportés par les témoins font-ils l'objet d'enquêtes policières?",
+        "Quelles recommandations le sous-comité tirera-t-il de son étude sur la répression transnationale?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-viginum-chine-influence",
+      "titre": "Réseau Fawn Mianju relié à CGTN",
+      "resume": "Selon des reprises du Monde, Viginum a révélé le 4 juin 2026 un réseau de 13 faux sites d'information en quatre langues, relié à la chaîne chinoise CGTN, qui aurait republié environ 2 300 articles de CGTN reformulés à l'aide d'outils d'IA. Selon Le Monde, la faible visibilité de l'opération en fait un échec opérationnel.",
+      "questions": [
+        "Comment s'explique la concentration de l'engagement au Burundi ?",
+        "Quel lien précis l'administrateur identifié par sa trace de connexion entretient-il avec CGTN ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.439Z"
+    },
+    {
+      "id": "iran-responsables-regime-au-canada",
+      "titre": "Responsables du régime iranien au Canada",
+      "resume": "Le Canada interdit de territoire les hauts responsables du régime iranien : selon l'ASFC, en mars 2026, au moins 239 visas avaient été annulés et 32 personnes déclarées interdites de territoire, mais une seule avait été renvoyée. En avril, le président de la fédération iranienne de football, présenté comme ancien cadre des Gardiens de la révolution, a été refoulé à Toronto malgré un visa. En août, l'ancien vice-ministre Salman Samani a été expulsé, et Global News a révélé le dossier d'Abbas Omidi, qui décrit son ancien poste comme technique; la décision de la CISR était attendue à l'automne.",
+      "questions": [
+        "Quelle décision la CISR a-t-elle rendue dans le dossier d'Abbas Omidi?",
+        "Pourquoi si peu de renvois ont-ils suivi les interdictions de territoire prononcées?",
+        "Comment un visa a-t-il été délivré à Mehdi Taj avant d'être révoqué à son arrivée?",
+        "Sur quels motifs reposent les ordonnances de confidentialité rendues par la CISR?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "iran-retombees-guerre-2026",
+      "titre": "Retombées canadiennes de la guerre contre l'Iran",
+      "resume": "Ce dossier suit les retombées pour le Canada de la guerre ouverte en février 2026 par les frappes américaines et israéliennes contre l'Iran. En mars, selon un député et La Presse, une frappe iranienne a touché le camp canadien d'une base au Koweït, ce qu'Ottawa a tu pendant onze jours; selon CBC, des militaires canadiens se trouvaient dans des quartiers généraux américains visés. En juin, le Canada a signé avec 21 alliés une condamnation des complots iraniens, sans attribuer d'attaque précise sur son sol. En août, Téhéran l'a accusé de s'être joint à la guerre, ce qu'Ottawa dément.",
+      "questions": [
+        "Le camp canadien d'Ali Al-Salem était-il visé, ou a-t-il été touché parce qu'il jouxte des installations américaines?",
+        "Quel rôle les militaires canadiens intégrés aux quartiers généraux américains ont-ils joué pendant les frappes contre l'Iran?",
+        "Les cyberattaques iraniennes jugées probables par le Centre pour la cybersécurité se sont-elles matérialisées au Canada?",
+        "Ottawa inscrira-t-il Kata'ib Hizballah ou HAYI sur la liste des entités terroristes?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "rwanda-canada-securite",
+      "titre": "Rwanda et sécurité au Canada",
+      "resume": "En juin, la GRC a arrêté à Ottawa un homme visé par un mandat rwandais lié au génocide, accusé de fraude à l'immigration; en octobre, un gendarme albertain accusé d'avoir consulté une base de données policière au profit du Rwanda a été acquitté (dossier affaire-ndatuje).",
+      "questions": [
+        "Le Canada extradera-t-il la personne visée par le mandat rwandais?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T22:23:29.423Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-cgri-frigos",
+      "titre": "Sabotage informatique de chambres froides",
+      "resume": "Dans la nuit du 11 au 12 octobre 2026, selon le C4 cité par BleepingComputer, des contrôleurs de réfrigération d'environ 700 sites de la grande distribution ont été reprogrammés à distance, provoquant au moins 15 départs de feu et de lourdes pertes. Début novembre, les chambres froides de trois sites de l'Établissement français du sang ont été modifiées via un prestataire, sans perte de produits selon l'EFS. Le 9 novembre, le C4 a attribué le sabotage d'octobre à l'unité Shahid Kaveh du CGRI iranien ; des mandats d'arrêt sont demandés et l'attaque contre l'EFS n'est ni attribuée ni exclue.",
+      "questions": [
+        "L'attaque contre l'EFS relève-t-elle du même acteur que celle visant les supermarchés ?",
+        "Combien de sites ont réellement été touchés, l'estimation étant passée de 250-350 magasins à environ 700 ?",
+        "Comment l'attribution a-t-elle pu être établie en moins d'un mois ?",
+        "Quelle date retenir pour l'attaque, la nuit du 11 au 12 ou du 12 au 13 octobre ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.472Z"
+    },
+    {
+      "id": "fr-sabotage-cher-defense",
+      "titre": "Sabotages du Cher : déclarations de Laurent Nuñez",
+      "resume": "Interrogé à l'Assemblée nationale, le ministre de l'Intérieur Laurent Nuñez a confirmé que les incendies de Bourges et de La Chapelle-Saint-Ursin visaient l'industrie de l'armement et décrit une ultragauche glissant vers la violence sur des thèmes antimilitaristes, sans lui attribuer explicitement ces faits. Selon lui, les sabotages attribués à cette mouvance sont passés de 160 en 2024 à 190 en 2025 ; il n'a évoqué aucune implication étrangère.",
+      "questions": [
+        "Les auteurs des incendies ont-ils été identifiés par l'enquête antiterroriste ?",
+        "Une possible instrumentalisation étrangère est-elle examinée ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.425Z"
+    },
+    {
+      "id": "cuba-sanctions-americaines-sherritt",
+      "titre": "Sanctions américaines contre Cuba et Sherritt",
+      "resume": "Un décret américain élargissant les sanctions contre Cuba a contraint Sherritt International à suspendre ses coentreprises cubaines et à arrêter sa raffinerie de Fort Saskatchewan; une firme américaine vise une part majoritaire de son capital. Le Canada a de nouveau voté à l'ONU contre l'embargo américain.",
+      "questions": [
+        "Les sanctions américaines servent-elles de levier sur une entreprise canadienne?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.511Z",
+      "veille": "canada"
+    },
+    {
+      "id": "sanctions-russie-2026",
+      "titre": "Sanctions canadiennes contre la Russie en 2026",
+      "resume": "Le Canada a adopté en 2026 plusieurs séries de sanctions contre la Russie : en février, 21 personnes, 53 entités et 100 navires de la flotte fantôme; en juin, au G7 d'Évian, 162 cibles, dont des « acteurs de la désinformation » selon le premier ministre; en novembre, 24 personnes et 38 entités liées aux missiles balistiques, aux cyberactivités et aux cryptomonnaies. Moscou a répliqué en juin en interdisant d'entrée 103 Canadiens, dont des parlementaires. Les communiqués consultés ne nomment pas les acteurs « hybrides », cyber ou de désinformation visés.",
+      "questions": [
+        "Qui sont les acteurs de la désinformation et les acteurs cyber sanctionnés, que les communiqués ne nomment pas?",
+        "Quels Canadiens figurent sur la liste russe d'interdiction d'entrée?",
+        "Certaines de ces sanctions répondent-elles à des activités visant le Canada lui-même?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "iran-sanctions-approvisionnement",
+      "titre": "Sanctions contre l'Iran et réseaux d'approvisionnement",
+      "resume": "Des personnes et des entreprises au Canada sont soupçonnées d'aider l'Iran à contourner les sanctions ou à acquérir des technologies. Global News a révélé en juin 2026 le cas d'un doctorant de Carleton signalé par le SCRS, puis en septembre celui d'un résident d'Edmonton ayant obtenu des contrats fédéraux malgré un signalement de 2017, qui conteste les allégations. En octobre, on a appris que l'expulsion d'un Torontois ayant plaidé coupable aux États-Unis avait été ordonnée. Le 6 novembre, le Trésor américain a sanctionné huit bureaux de change canadiens, sans mesure canadienne annoncée.",
+      "questions": [
+        "Le Canada prendra-t-il des mesures contre les huit bureaux de change sanctionnés par Washington?",
+        "Comment des contrats de la Défense nationale et de la GRC ont-ils pu être attribués après un signalement de sécurité datant de 2017?",
+        "Quelle décision sera rendue sur le permis d'études du doctorant de Carleton?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "pouvoirs-scrs",
+      "titre": "SCRS et réseaux de machines zombies",
+      "resume": "Selon The Bureau (16 juin 2026), un juge de la Cour fédérale aurait autorisé pour la première fois le SCRS à s'introduire dans deux réseaux de machines zombies liés à des États, dont l'un vraisemblablement chinois, hébergés sur des appareils de foyers canadiens. La décision n'a pas pu être consultée et aucune autre source examinée ne la confirme.",
+      "questions": [
+        "La décision existe-t-elle telle que décrite, et sera-t-elle rendue publique?",
+        "Les propriétaires des appareils compromis ont-ils été avisés?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "coupe-du-monde-2026",
+      "titre": "Sécurité de la Coupe du monde 2026 au Canada",
+      "resume": "Avant la Coupe du monde 2026, dont Toronto et Vancouver accueillaient des matchs, le Centre canadien pour la cybersécurité jugeait très probables des attaques hacktivistes et le recours à la désinformation. Pendant le tournoi, la police de Toronto a saisi 20 drones près des sites de la FIFA, et celle de Vancouver a relevé 745 vols non autorisés et brouillé 40 appareils. Aucun incident de sécurité nationale n'a été mentionné, et aucun bilan public des incidents cyber n'a été retrouvé.",
+      "questions": [
+        "Qui pilotait les drones et dans quel but, alors que 45 pilotes seulement ont été identifiés pour 745 vols à Vancouver?",
+        "Les attaques hacktivistes ou étatiques anticipées ont-elles eu lieu pendant le tournoi?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "stagiaire-otan-belgique",
+      "titre": "Stagiaire canadienne du SHAPE arrêtée en Belgique",
+      "resume": "Une stagiaire canadienne du quartier général militaire de l'OTAN (SHAPE) a été arrêtée en Belgique en juillet 2026 et inculpée d'espionnage et de participation à une organisation criminelle, au profit d'un pays tiers non nommé par le parquet (la Chine, selon une source anonyme de Reuters). Mark Carney a dit que des responsables canadiens étaient impliqués depuis le début, The Bureau décrivant un rôle limité à l'habilitation et au consentement à l'enquête. En octobre, le ministre de la Sécurité publique a admis des lacunes du filtrage, Affaires mondiales affirmant avoir suivi toutes les étapes.",
+      "questions": [
+        "Pour quel pays la stagiaire aurait-elle agi, et qui sont les autres personnes que suppose le chef d'organisation criminelle?",
+        "Que savaient les autorités canadiennes avant l'arrestation, et depuis quand?",
+        "Comment l'habilitation a-t-elle été accordée malgré un constat de fraude dans un concours fédéral?",
+        "À quelles informations une stagiaire pouvait-elle accéder au SHAPE?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "contournement-sanctions-russie",
+      "titre": "Streit Group et sanctions liées à la Russie",
+      "resume": "Le 6 août 2026, le Canada a inscrit sur sa liste de sanctions Streit Group, fabricant de blindés fondé en Ontario et aujourd'hui établi aux Émirats arabes unis, en invoquant des informations jugées crédibles selon lesquelles ses véhicules ont été utilisés par la Garde nationale russe. Aucune accusation criminelle n'est signalée, et l'entreprise n'a pas répondu aux questions de Global News sur la Russie.",
+      "questions": [
+        "Une enquête criminelle visera-t-elle l'entreprise ou son dirigeant, citoyen canadien?",
+        "Comment des blindés de l'entreprise seraient-ils parvenus à la Garde nationale russe?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "nova-scotia-power-2025",
+      "titre": "Suites de l'intrusion chez Nova Scotia Power",
+      "resume": "Le 25 mars 2026, le Commissariat à la protection de la vie privée a annoncé que Nova Scotia Power s'engageait à renforcer sa sécurité après l'intrusion découverte en avril 2025, qui a touché environ 375 000 clients actuels et 540 000 anciens clients. L'entreprise attribue l'attaque à un acteur étranger « sophistiqué », qu'aucune autorité n'a identifié publiquement.",
+      "questions": [
+        "Qui est l'acteur étranger évoqué par l'entreprise?",
+        "L'enquête du commissaire est-elle abandonnée, ou reste-t-elle ouverte jusqu'à l'exécution des engagements?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "westjet-2025",
+      "titre": "Suites du vol de données chez WestJet",
+      "resume": "Le 14 juillet 2026, le Commissariat à la protection de la vie privée a annoncé que WestJet avait signé une lettre de conformité à la suite de la cyberattaque de 2025, qui a exposé les données de plus de cinq millions de clients et d'employés, dont des renseignements de passeport. Le commissaire a clos son enquête le 14 octobre 2026.",
+      "questions": [
+        "Qui est l'auteur de l'attaque, qui n'a pas été nommé publiquement?",
+        "Les données de passeport et de déplacement volées ont-elles été exploitées?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "suivi-commission-hogue",
+      "titre": "Suivi des recommandations de la commission Hogue",
+      "resume": "Les 3 et 5 février 2026, le comité de la procédure des Communes a entendu de hauts fonctionnaires puis le ministre de la Sécurité publique sur l'ingérence étrangère. Selon le cahier d'information de Sécurité publique, 34 des 51 recommandations de la commission Hogue étaient réalisées ou bien avancées et 17 à l'étude, alors que le registre d'influence étrangère n'était toujours pas en vigueur.",
+      "questions": [
+        "Où en sont les 17 recommandations qui étaient encore à l'étude en février?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "elections-partielles-2026",
+      "titre": "Surveillance des partielles fédérales d'avril 2026",
+      "resume": "Dans son rapport sur les élections partielles fédérales du 13 avril 2026, tenues dans trois circonscriptions, le Groupe de travail sur les menaces en matière de sécurité et de renseignements visant les élections (MSRE) indique n'avoir observé aucune activité correspondant aux méthodes connues d'ingérence étrangère. Le rapport, très succinct, ne nomme aucun pays.",
+      "questions": [
+        "Qu'a précisément surveillé le groupe de travail, dont les bilans hebdomadaires ne sont pas divulgués?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "surveillance-cst",
+      "titre": "Surveillance du CST par l'OSSNR",
+      "resume": "L'OSSNR a conclu que le CST avait conservé des données sans valeur de renseignement étranger, contrairement à ses règles.",
+      "questions": [
+        "Le CST a-t-il corrigé ses pratiques de conservation?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.516Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-drones-toulon",
+      "titre": "Survols de drones au-dessus de sites militaires varois",
+      "resume": "En mars 2026, selon AeroTime et Clubic, un drone non autorisé a été repéré près du quai Cronstadt, à proximité de la base navale de Toulon ; son télépilote a été interpellé et la base a porté plainte, sans élément suggérant un lien étranger. Du 9 au 13 octobre, selon ICI Provence, des drones non identifiés ont survolé de nuit la base navale, un site de la DGA et le 54e régiment d'artillerie à Hyères, pendant l'exercice anti-drones Typhon. La préfecture maritime a confirmé les survols, la Marine assure qu'aucune infrastructure sensible n'a été menacée, et une enquête judiciaire a été ouverte.",
+      "questions": [
+        "Qui pilotait les drones d'octobre, et dans quel but ?",
+        "Pourquoi le brouillage a-t-il apparemment échoué, sans qu'aucun appareil soit récupéré ?",
+        "Quelle autorité judiciaire est saisie, les informations divergeant ?",
+        "Quelles étaient l'identité et la motivation du télépilote interpellé en mars ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.412Z"
+    },
+    {
+      "id": "syndrome-havane",
+      "titre": "Syndrome de La Havane et diplomates canadiens",
+      "resume": "Des diplomates canadiens à Cuba ont subi des incidents de santé inexpliqués, et Affaires mondiales Canada a conclu en 2024 qu'ils ne résultaient pas d'un acte malveillant étranger. En mars 2026, Ottawa a maintenu cette conclusion alors que les dirigeants des agences américaines de renseignement et de police disaient au Congrès que des évaluations semblables devaient être retirées. En septembre, le Globe and Mail a rapporté, d'après une source non identifiée, que des Canadiens espionnaient alors pour les États-Unis à Cuba; Mark Carney a dit attendre un breffage avant de décider de la suite.",
+      "questions": [
+        "Ottawa révisera-t-il son rapport de 2024 maintenant que Washington désavoue des évaluations semblables?",
+        "L'allégation voulant que des Canadiens aient espionné pour les États-Unis à Cuba sera-t-elle confirmée ou démentie?",
+        "Une enquête sera-t-elle ouverte, comme le réclament des experts?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-tags-cercueils-2024",
+      "titre": "Tags de cercueils de juin 2024 : jugement à Paris",
+      "resume": "Selon l'agence ukrainienne UNN, citant Actu.fr, le tribunal de Paris a condamné à des amendes sept ressortissants moldaves jugés pour les tags de cercueils sur les « soldats français en Ukraine » apparus en juin 2024. Ils ont été relaxés du chef de démoralisation de l'armée requis par le parquet, les sources divergeant sur le nombre de prévenus et la date du jugement.",
+      "questions": [
+        "Combien de prévenus ont été jugés, et à quelle date ?",
+        "Pourquoi les peines sont-elles restées très en deçà des réquisitions ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.416Z"
+    },
+    {
+      "id": "technologies-chinoises",
+      "titre": "TikTok, véhicules connectés et sécurité nationale",
+      "resume": "Le 21 janvier 2026, la Cour fédérale a annulé, avec le consentement du gouvernement et de TikTok, l'ordre de liquidation de TikTok Technology Canada prononcé en 2024 pour des motifs de sécurité nationale; en mars, la ministre de l'Industrie a autorisé l'entreprise à poursuivre ses activités moyennant des engagements contraignants. En juin, une note interne de Sécurité publique, obtenue par La Presse Canadienne, a averti que les données des véhicules connectés peuvent avoir une valeur de renseignement et que les lois chinoises peuvent contraindre les fabricants à les transmettre à l'État.",
+      "questions": [
+        "Comment le respect des engagements pris par TikTok sera-t-il vérifié?",
+        "Quelles mesures d'atténuation s'appliqueront aux données recueillies par les véhicules chinois?",
+        "Pourquoi l'ordre de liquidation de 2024 a-t-il été annulé sans motifs publics?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "vizsla-silver-sinaloa",
+      "titre": "Travailleurs de Vizsla Silver tués au Sinaloa",
+      "resume": "Dix travailleurs du projet Panuco de la minière vancouvéroise Vizsla Silver ont été enlevés en janvier au Sinaloa; neuf ont été retrouvés morts. En juin, les autorités mexicaines ont arrêté un tueur présumé lié aux fils d'« El Chapo ».",
+      "questions": [
+        "Pourquoi les travailleurs de ce projet ont-ils été visés?",
+        "Le dixième travailleur a-t-il été retrouvé?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T22:23:29.420Z",
+      "veille": "canada"
+    },
+    {
+      "id": "tuerie-tumbler-ridge",
+      "titre": "Tuerie de Tumbler Ridge",
+      "resume": "Une personne de l'État de Washington a été arrêtée par le FBI en octobre et accusée de complot en vue de commettre des meurtres à l'étranger, en lien avec la tuerie du 10 février à Tumbler Ridge.",
+      "questions": [
+        "Quel est le lien allégué entre l'accusé et la tuerie?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T21:40:19.524Z",
+      "veille": "canada"
+    },
+    {
+      "id": "fr-bordeaux-professeur-chine",
+      "titre": "Universitaire de Bordeaux et délégation chinoise",
+      "resume": "Selon le parquet de Paris cité par l'AFP le 14 janvier 2026, un professeur d'un institut universitaire d'ingénierie de Bordeaux a été mis en examen mi-décembre pour livraison d'informations et intelligence avec une puissance étrangère, soupçonné d'avoir laissé des membres d'une délégation chinoise pénétrer dans des zones à régime restrictif. Présumé innocent, il a été laissé libre sous contrôle judiciaire.",
+      "questions": [
+        "Pourquoi la mise en examen n'a-t-elle été rendue publique qu'un mois plus tard ?",
+        "Quelles défaillances de contrôle d'accès ont permis l'entrée de la délégation dans des zones protégées ?"
+      ],
+      "veille": "france",
+      "etat": "actif",
+      "maj": "2026-11-16T11:50:48.391Z"
+    },
+    {
+      "id": "extorsion-gang-bishnoi",
+      "titre": "Vague d'extorsions et gang Bishnoi",
+      "resume": "Une vague d'extorsions violentes, avec fusillades et incendies, touche la Colombie-Britannique, l'Ontario et Winnipeg. En janvier 2026, Global News a révélé une évaluation de la GRC selon laquelle le gang Bishnoi agirait « prétendument » pour le compte du gouvernement indien, sans preuve rendue publique. Les arrestations se sont succédé toute l'année, visant souvent des ressortissants étrangers et parfois d'autres groupes que ce gang, comme à Peel en mai. Début novembre, deux hommes ont été accusés pour des fusillades d'octobre 2025 à Surrey; la question des commanditaires reste ouverte.",
+      "questions": [
+        "Le gang Bishnoi agit-il pour le compte de l'État indien, comme l'évoque l'évaluation de la GRC, et cette évaluation tient-elle toujours en 2026?",
+        "Qui donne les ordres derrière les exécutants arrêtés, et depuis quel pays?",
+        "L'inscription du gang comme entité terroriste se traduira-t-elle par des accusations de terrorisme?",
+        "L'employé de l'ASFC visé par des allégations dans un acte d'accusation américain fera-t-il l'objet d'une enquête au Canada?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "sri-lanka-monument-tamoul",
+      "titre": "Vandalisme du monument du génocide tamoul à Brampton",
+      "resume": "Dans la nuit du 20 mars 2026, le monument du génocide tamoul de Brampton a été vandalisé pour la troisième fois depuis son inauguration en mai 2025, selon Tamil Guardian; un adolescent de 14 ans a été arrêté et accusé de méfait, selon Insauga. Le Conseil national des Tamouls canadiens y voit un schéma d'ingérence de l'État sri-lankais, sans preuve directe.",
+      "questions": [
+        "Les trois attaques contre le monument sont-elles liées, et relèvent-elles d'actes isolés ou d'une incitation extérieure?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    },
+    {
+      "id": "mexique-violence-cartels-canadiens",
+      "titre": "Violence des cartels et Canadiens au Mexique",
+      "resume": "La mort présumée du chef du cartel de Jalisco, en février, a provoqué des violences qui ont forcé des milliers de Canadiens à se confiner; Ottawa s'est dit profondément alarmé.",
+      "questions": [
+        "Des Canadiens ont-ils été visés directement?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T22:23:29.418Z",
+      "veille": "canada"
+    },
+    {
+      "id": "taiwan-pressions-deputes",
+      "titre": "Visites de députés à Taïwan et mises en garde de Pékin",
+      "resume": "En janvier 2026, deux députées libérales ont écourté un voyage à Taïwan, sur avis du gouvernement selon elles, au moment où Mark Carney partait pour Pékin; la présidente du groupe d'amitié a ensuite affirmé qu'elles étaient parties de leur propre chef. Fin avril, l'ambassadeur de Chine a qualifié Taïwan de « ligne rouge » et prévenu que les visites de députés et les passages de navires de guerre nuiraient au partenariat conclu en janvier. Les 22 et 23 mai, la frégate NCSM Charlottetown a néanmoins franchi seule le détroit de Taïwan, ce à quoi Pékin a dit s'opposer fermement.",
+      "questions": [
+        "Les deux députées ont-elles quitté Taïwan sur avis du gouvernement ou de leur propre chef, et qui aurait donné cet avis?",
+        "Le gouvernement restreindra-t-il les visites parlementaires ou les transits navals à la suite de l'avertissement de l'ambassadeur?",
+        "Le passage de la frégate a-t-il eu des conséquences pour le partenariat avec Pékin?"
+      ],
+      "etat": "actif",
+      "maj": "2026-11-15T00:00:00.000Z",
+      "veille": "canada"
+    }
+  ]
+}

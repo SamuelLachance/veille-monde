@@ -1,0 +1,85 @@
+{
+  "schema": 1,
+  "entrees": [
+    {
+      "date": "2026-11-15T09:08:42.168Z",
+      "type": "import",
+      "message": "Importation en lot : 227 ajouté(s), 0 mis à jour, 0 ignoré(s), 0 erreur(s)"
+    },
+    {
+      "date": "2026-11-15T09:37:35.493Z",
+      "type": "synthese",
+      "message": "Synthèse 2026 rédigée (En bref, rapport détaillé, couverture et limites)"
+    },
+    {
+      "date": "2026-11-15T09:37:35.687Z",
+      "type": "dossier",
+      "message": "Fiches des 82 dossiers rédigées"
+    },
+    {
+      "date": "2026-11-15T21:38:51.261Z",
+      "type": "import",
+      "message": "Importation en lot : 128 ajouté(s), 0 mis à jour, 0 ignoré(s), 0 erreur(s)"
+    },
+    {
+      "date": "2026-11-15T21:38:51.443Z",
+      "type": "piste",
+      "message": "Pistes réexaminées : 23 mise(s) à jour (vérifiées ou écartées)"
+    },
+    {
+      "date": "2026-11-15T21:40:19.530Z",
+      "type": "dossier",
+      "message": "Seconde passe : 128 fiches et 24 dossiers ajoutés"
+    },
+    {
+      "date": "2026-11-15T21:53:19.613Z",
+      "type": "verification",
+      "message": "Vérification des fiches contre leurs sources : 96 fiche(s) corrigée(s) après contre-vérification"
+    },
+    {
+      "date": "2026-11-15T21:53:55.126Z",
+      "type": "synthese",
+      "message": "Synthèse 2026 : section Couverture mise à jour après vérification et seconde passe"
+    },
+    {
+      "date": "2026-11-15T22:08:23.141Z",
+      "type": "import",
+      "message": "Importation en lot : 7 ajouté(s), 0 mis à jour, 0 ignoré(s), 0 erreur(s)"
+    },
+    {
+      "date": "2026-11-15T22:08:33.159Z",
+      "type": "import",
+      "message": "Volet Russie et Arctique : 7 fiches et 3 dossiers ajoutés"
+    },
+    {
+      "date": "2026-11-15T22:23:29.287Z",
+      "type": "import",
+      "message": "Importation en lot : 19 ajouté(s), 0 mis à jour, 0 ignoré(s), 0 erreur(s)"
+    },
+    {
+      "date": "2026-11-15T22:23:29.469Z",
+      "type": "import",
+      "message": "Passe ciblée sur les lacunes : 19 fiches et 6 dossiers ajoutés"
+    },
+    {
+      "date": "2026-11-15T22:26:33.551Z",
+      "type": "synthese",
+      "message": "Synthèse 2026 : section des recherches sans résultat publié"
+    },
+    {
+      "date": "2026-11-15T23:37:57.432Z",
+      "type": "migration",
+      "message": "Pays suivi « canada » ajouté : 381 événement(s), 115 dossier(s), 205 piste(s)"
+    },
+    {
+      "date": "2026-11-16T11:45:07.065Z",
+      "type": "import",
+      "message": "Importation en lot : 114 ajouté(s), 0 mis à jour, 0 ignoré(s), 0 erreur(s)"
+    },
+    {
+      "date": "2026-11-16T11:50:48.475Z",
+      "type": "import",
+      "message": "France 2026 : 114 fiches, 52 dossiers et 64 pistes ajoutés"
+    }
+  ]
+}

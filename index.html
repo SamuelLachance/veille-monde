@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="fr-CA">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="referrer" content="no-referrer" />
+    <title>Veille Monde</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="assets/app.css" />
+  </head>
+  <body>
+    <a class="evitement" href="#contenu">Aller au contenu</a>
+
+    <header class="entete" id="entete"></header>
+    <nav class="onglets" id="onglets" aria-label="Sections"></nav>
+    <section class="filtres" id="filtres" aria-label="Filtres"></section>
+
+    <main id="contenu">
+      <div class="cadre"><p style="color: var(--encre-2); padding: 40px 0">Chargement du registre…</p></div>
+    </main>
+
+    <footer class="pied-page">
+      <div class="cadre">
+        Registre personnel de sources ouvertes. Une allégation n'est pas un fait établi; la présomption d'innocence vaut pour toute personne nommée.
+      </div>
+    </footer>
+
+    <div class="voile" id="voile"></div>
+    <aside class="tiroir" id="tiroir" role="dialog" aria-modal="true" aria-labelledby="tiroir-titre" aria-hidden="true" inert>
+      <header>
+        <strong>Fiche d'événement</strong>
+        <button class="bouton discret" id="tiroir-fermer" type="button">Fermer ✕</button>
+      </header>
+      <div class="corps" id="tiroir-corps"></div>
+    </aside>
+
+    <div class="modale" id="modale"></div>
+    <div id="infobulle" role="tooltip"></div>
+    <div id="avis"></div>
+
+    <script src="assets/util.js"></script>
+    <script src="assets/graphiques.js"></script>
+    <script src="assets/app.js"></script>
+    <script src="assets/vues.js"></script>
+    <script src="assets/fiches.js"></script>
+  </body>
+</html>

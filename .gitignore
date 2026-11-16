@@ -1,0 +1,9 @@
+# Annotations personnelles : ne jamais publier
+data/perso.json
+data/corbeille.json
+data/sauvegardes/
+# Fichiers régénérés
+data/data.js
+_site/
+node_modules/
+*.log
