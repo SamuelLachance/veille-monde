@@ -54,7 +54,7 @@
 
   async function charger() {
     let donnees = null;
-    if ((location.protocol === 'http:' || location.protocol === 'https:') && /^(localhost|127.0.0.1|[::1])$/.test(location.hostname)) {
+    if ((location.protocol === 'http:' || location.protocol === 'https:') && ['localhost', '127.0.0.1', '[::1]'].includes(location.hostname)) {
       try {
         const reponse = await fetch('/api/donnees', { cache: 'no-store' });
         if (reponse.ok) {
